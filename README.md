@@ -32,29 +32,6 @@ Evaluations conducted across three key Amharic NLP tasks demonstrate substantial
 
 ---
 
-## 📁 Repository Structure
-
-```text
-├── dataset.csv                          # Primary dataset for Amharic NLP tasks
-├── processed_data/                      # Train, validation, and test splits
-│   ├── train.csv
-│   ├── val.csv
-│   └── test.csv
-├── model_defs.py                        # Architectures: Baseline, ScriptAwareModel, AgenticProcessor
-├── preprocess.py                        # Data preprocessing and Ge'ez tokenization routines
-├── train_pipeline.py                    # Training scripts with HuggingFace Trainer & PyTorch
-├── eval_pipeline.py                     # Evaluation and metrics computation pipeline
-├── analysis_plots.py                    # Visual analysis and comparison figure generation
-├── evaluation_report.json               # Aggregated task comparison metrics
-├── evaluation_results.json              # Detailed evaluation output logs
-├── rq_responses.md                      # Comprehensive answers and analysis for Research Questions
-├── methodology_results_sections.tex     # Methodology & Results LaTeX manuscript draft
-├── abstract_keywords.tex                # Abstract and keywords LaTeX draft
-├── conclusion_section.tex               # Conclusion section LaTeX draft
-├── comparison_results.png               # Comparison plot across Baseline, Script-Aware, and Agentic models
-└── requirements.txt                     # Python dependencies
-```
-
 ---
 
 ## 🚀 Getting Started
@@ -96,15 +73,3 @@ python analysis_plots.py
 
 ---
 
-## 📖 Citation
-
-If you use this codebase or methodology in your research, please cite:
-
-```bibtex
-@article{tsega2026scriptaware,
-  title={Script-Aware and Agentic Methods for Amharic Natural Language Processing},
-  author={Tsega, Kindie Alebachew and Sharma, Durga Prasad and Samuel, Messay and Abebe, Mohammed},
-  journal={Submitted for publication},
-  year={2026}
-}
-```
