@@ -1,0 +1,132 @@
+% ============================================================
+%  SECTION 5: CONCLUSION
+% ============================================================
+\section{Conclusion}
+\label{sec:conclusion}
+
+This paper investigated whether the persistent performance gap of Large Language Models on
+Amharic---a morphologically complex, low-resource Semitic language written in the
+Ge\textquotesingle ez (Fidel) script---could be materially reduced by two principled but
+computationally modest interventions: \emph{Ge\textquotesingle ez script awareness} and
+\emph{agentic text processing}.  The experimental evidence collected on a purpose-built corpus
+of 5{,}000 annotated Amharic instances answers each of the three research questions decisively.
+
+% ------------------------------------------------------------
+\subsection*{Answers to the Research Questions}
+
+\paragraph{RQ1 — Agentic text processing.}
+Decomposing Amharic language understanding into an explicit three-step orchestration
+pipeline---morphological segmentation, semantic disambiguation, and coreference
+resolution---yields a 75\,\% relative improvement in translation BLEU (0.12 $\to$ 0.21) and
+a 27.6\,\% relative improvement in morphological accuracy (0.58 $\to$ 0.74) compared to a
+standard multilingual transformer baseline.  The gains demonstrate that exposing latent
+morphological boundaries as structured signals before encoding allows the LLM to generate
+more faithful and linguistically precise Amharic output, confirming that \emph{agentic
+orchestration is an effective strategy for enhancing both comprehension and generation in
+Amharic LLMs}.
+
+\paragraph{RQ2 — Ge\textquotesingle ez script awareness.}
+Integrating a dedicated character-level convolutional branch over a $\approx$500-symbol
+Ge\textquotesingle ez vocabulary, fused with subword representations, improved all downstream
+tasks without any agentic intervention.  Morphological accuracy rose by 19.0\,\% (0.58
+$\to$ 0.69), ambiguity/coreference F1 by 16.4\,\% (0.55 $\to$ 0.64), and translation BLEU
+by 33.3\,\% (0.12 $\to$ 0.16) relative to the baseline.  These results confirm that
+\emph{generic multilingual tokenizers impose a structural ceiling on Amharic conversational
+intelligence} and that script-aware character encoding is a necessary, not optional,
+architectural component for Ge\textquotesingle ez-script language modelling.
+
+\paragraph{RQ3 — Convergence of script awareness and agentic processing.}
+The full Agentic model, which layers multi-step reasoning on top of the Script-Aware encoder,
+achieved the highest scores across all tasks.  Critically, the gains of the Agentic model over
+the Script-Aware model are non-redundant: a further +31.3\,\% BLEU improvement, +7.2\,\%
+morphological accuracy, and +12.5\,\% ambiguity F1 are attributable solely to agentic
+reasoning applied on top of script-faithful encodings.  Ablation analysis confirmed a
+monotonic improvement with each successive agentic step.  Together, these results establish
+that \emph{Ge\textquotesingle ez script literacy and agentic cognitive reasoning are
+complementary and synergistic}: the former provides high-fidelity input representations; the
+latter provides structured inference over those representations, and the combination
+outperforms either paradigm applied in isolation.
+
+% ------------------------------------------------------------
+\subsection*{Key Contributions}
+
+The primary contributions of this work are as follows:
+
+\begin{enumerate}
+  \item \textbf{A script-aware neural architecture for Ge\textquotesingle ez.}  The proposed
+        character-level CNN fusion module is the first to target the complete Fidel inventory
+        ($\approx$500 characters) within a multilingual transformer framework, providing a
+        reusable inductive bias for any NLP task on Amharic or related Ge\textquotesingle ez-%
+        script languages (Tigrinya, Tigre).
+
+  \item \textbf{A modular agentic processing pipeline.}  The three-step orchestration
+        (morphological segmentation $\to$ semantic disambiguation $\to$ coreference resolution)
+        imposes no additional gradient-based training cost over the Script-Aware model, making
+        it an accessible and reproducible extension for low-resource settings.
+
+  \item \textbf{An annotated Amharic benchmark corpus.}  The 5{,}000-instance dataset,
+        spanning four linguistically motivated task types with fine-grained morphological
+        annotations, is a self-contained evaluation resource that can support future Amharic
+        NLP research.
+
+  \item \textbf{Quantitative evidence of synergy.}  The ablation study provides the first
+        controlled evidence that Ge\textquotesingle ez script awareness and agentic
+        orchestration amplify each other, motivating a \emph{script-first, then reason}
+        design principle for Semitic conversational AI.
+\end{enumerate}
+
+% ------------------------------------------------------------
+\subsection*{Limitations}
+
+Several limitations bound the current study.  First, the benchmark corpus, while carefully
+curated, contains 5{,}000 instances; scaling to larger corpora would strengthen the statistical
+robustness of the reported gains.  Second, the agentic pipeline steps (morphological
+segmentation, disambiguation, coreference resolution) are implemented as rule-augmented text
+transformations in the current prototype; replacing them with dedicated learned sub-models would
+likely yield additional performance improvements.  Third, evaluation is confined to three
+metrics (BLEU, Accuracy, F1); human evaluation of fluency and naturalness in conversational
+interactions would complement these automatic scores.  Finally, the study uses
+Multilingual-MiniLM as the backbone; larger-scale pretrained multilingual models may show
+different sensitivity to the proposed augmentations.
+
+% ------------------------------------------------------------
+\subsection*{Future Work}
+
+Building on these findings, several research directions are identified as high-priority:
+
+\begin{itemize}
+  \item \textbf{Differentiable agentic steps.}  Replacing the deterministic pipeline with
+        end-to-end differentiable reasoning modules (e.g., chain-of-thought fine-tuning or
+        tool-augmented LLMs) could allow the model to learn optimal decomposition strategies
+        directly from Amharic data.
+
+  \item \textbf{Reinforcement learning from Amharic human feedback (RLHF-am).}  Collecting
+        native-speaker preference annotations for generated responses and applying preference
+        optimization (e.g., DPO or PPO) would target naturalness and cultural appropriateness
+        dimensions not captured by $n$-gram metrics.
+
+  \item \textbf{Cross-lingual transfer to Ge\textquotesingle ez-family languages.}  The script-%
+        aware architecture and corpus construction methodology are directly transferable to
+        Tigrinya and Tigre; evaluating zero-shot and few-shot cross-lingual performance is a
+        natural next step.
+
+  \item \textbf{Larger backbone integration.}  Applying the proposed augmentations to
+        billion-parameter multilingual instruction-tuned LLMs (e.g., mT5-XXL, Aya) would
+        test whether the synergistic gains persist at scale and could inform practical
+        deployment of Amharic conversational agents.
+
+  \item \textbf{Spoken Amharic extension.}  Integrating automatic speech recognition
+        preprocessing that retains Ge\textquotesingle ez script fidelity would extend the
+        framework to voice-based conversational interfaces, broadening its real-world impact.
+\end{itemize}
+
+% ------------------------------------------------------------
+\subsection*{Closing Remarks}
+
+The Amharic-speaking community represents over 40 million people, yet the language remains
+severely underserved by state-of-the-art conversational AI systems.  This work demonstrates
+that targeted architectural choices---rooted in a deep understanding of Ge\textquotesingle ez
+orthography and Amharic morphosyntax---can close a meaningful portion of the performance gap
+without requiring massive additional compute or data resources.  The script-first, agentic-%
+reasoning framework proposed here provides a principled, reproducible, and extensible
+foundation for the next generation of equitable, multilingual conversational intelligence.

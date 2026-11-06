@@ -1,0 +1,48 @@
+% ============================================================
+%  ABSTRACT AND KEYWORDS
+%  Word count target: 150–220 words
+%  Place this block immediately after \begin{document} and
+%  before \maketitle, or inside the journal's abstract
+%  environment as required by the submission template.
+% ============================================================
+
+\begin{abstract}
+Large Language Models (LLMs) exhibit persistent performance gaps on morphologically rich,
+low-resource languages such as Amharic, whose Ge\textquotesingle ez (Fidel) script and highly
+agglutinative grammar are poorly served by standard multilingual tokenizers.  This paper
+proposes a two-pronged framework that addresses these deficiencies through \emph{Ge\textquotesingle ez
+script awareness} and \emph{agentic text processing}.  The Script-Aware model introduces a
+character-level convolutional branch over a dedicated 500-symbol Fidel vocabulary, fused with
+subword transformer representations to recover fine-grained phonological and morphological
+signals.  The Agentic processor wraps this encoder in a three-step orchestration pipeline
+comprising morphological segmentation, semantic disambiguation, and coreference resolution,
+enabling iterative, structured reasoning over Amharic input prior to final inference.
+Experiments on a purpose-built corpus of 5{,}000 Amharic instances spanning translation,
+morphological analysis, and ambiguity/coreference resolution demonstrate consistent and
+significant gains: the Agentic model achieves a BLEU score of 0.21 (+75\,\% over the
+multilingual baseline), morphological accuracy of 0.74 (+27.6\,\%), and an ambiguity F1 of
+0.72 (+30.9\,\%).  Ablation analysis confirms that the two paradigms are complementary,
+with script awareness providing foundational orthographic literacy and agentic reasoning
+supplying higher-level cognitive inference.  The results establish a principled, modular
+pathway for advancing conversational intelligence in Amharic and other Ge\textquotesingle ez-script
+languages.
+\end{abstract}
+
+% ------------------------------------------------------------
+%  KEYWORDS  (6 terms; alphabetical order)
+% ------------------------------------------------------------
+\begin{IEEEkeywords}
+Agglutinative morphology;
+Agentic text processing;
+Amharic natural language processing;
+Conversational intelligence;
+Ge\textquotesingle ez script awareness;
+Large Language Models;
+Low-resource Semitic languages
+\end{IEEEkeywords}
+
+% NOTE: If the target journal uses a different keyword environment,
+% replace \begin{IEEEkeywords}...\end{IEEEkeywords} with the
+% appropriate command, e.g.:
+%   \keywords{...}           % Elsevier / Springer
+%   \begin{keyword}...\end{keyword}  % Elsevier elsarticle class

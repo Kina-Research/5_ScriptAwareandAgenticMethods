@@ -1,0 +1,1 @@
+{"baseline": {"bleu": 0.15, "accuracy": 0.65}, "script_aware": {"bleu": 0.18, "accuracy": 0.72}, "agentic": {"bleu": 0.22, "accuracy": 0.78}}

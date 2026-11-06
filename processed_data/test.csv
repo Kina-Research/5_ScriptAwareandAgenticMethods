@@ -1,0 +1,751 @@
+ID,Type,Amharic_Text,English_Text / Task_Output,Notes,Amharic_Text_Normalized
+2503,Morphology,ይናፈቁ,They long for each other,Reciprocal habitual,ይናፈቁ
+1597,Morphology,ተሊሰጠው,Reciprocal/Passive prefix + About to give to him + 3rd plural / nominalization,Derived: Reciprocal/Passive prefix; Base: Near-future with object; Added: 3rd plural / nominalization,ተሊሰጠው
+4448,Translation,ዶክተሩ ታካሚዎቹን ይመለከታቸዋል።,The doctor attends to the patients.,Present; Plural object,ዶክተሩ ታካሚዎቹን ይመለከታቸዋል።
+2179,Ambiguity / Coreference,ሁሉም ሰው ይሰማዋል።,Everyone hears him / Everyone hears it.,Object ambiguity: -ዋል referent; Names varied: ካሳሁን/ሰሎሞን/አስቴር,ሁሉም ሰው ይሰማዋል።
+1290,Conversation,አስተካክለናል፤ አመሰ።,We have fixed it; thank you.,Resolution,አስተካክለናል፤ አመሰ።
+3464,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+4251,Morphology,ፈፅሟል,He has completed,Perfect; Completive aspect,ፈፅሟል
+3149,Conversation,ደብዳቤ መፃፍ ትፈልጋለህ?,Do you want to write a letter?,Task offer,ደብዳቤ መፃፍ ትፈልጋለህ?
+4772,Ambiguity / Coreference,ምርት ሲሰበሰብ ዘፈን ዘፈኑ።,"When the harvest was gathered, they sang. / While gathering the harvest, they sang.",Temporal: sequential vs simultaneous; Names varied: ሰሎሞን/ጌታሁን/ሙሉ,ምርት ሲሰበሰብ ዘፈን ዘፈኑ።
+3372,Conversation,ዛሬ ወደ ቤቤ ሰርት እሄዳለሁ።,Today I am going to Bebe's house.,Social; Plan sharing,ዛሬ ወደ ቤቤ ሰርት እሄዳለሁ።
+2438,Translation,ዳዊት ነገ መኪናውን ይወሰደዋል።,ዳዊት will took the car tomorrow.,Future; Personal name,ዳዊት ነገ መኪናውን ይወሰደዋል።
+3024,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+2210,Translation,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።,ሀሰን remained without working the letter.,Negated gerundive,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።
+3310,Morphology,ተአስፃፋት,Reciprocal/Passive prefix + He caused her to write + Present perfect 3sg,Derived: Reciprocal/Passive prefix; Base: Causative with feminine object; Added: Present perfect 3sg,ተአስፃፋት
+1031,Conversation,ርቧት ነው።,He/She is hungry.,Reason provision,ርቧት ነው።
+3802,Morphology,ከቤቱ ወደ ሱቁ,From the house to the shop,Double prepositional,ከቤቱ ወደ ሱቁ
+4160,Morphology,ሮጣ,She ran / Run! (fem sg),Ambiguous: Past fem vs Imperative fem,ሮጣ
+3677,Conversation,አመሰ፤ ቆሟል።,Thank you; stopped.,Gratitude + resolution,አመሰ፤ ቆሟል።
+1444,Morphology,አስፅሁፎቻችን,Causative prefix + Our writings + Accusative / cohortative,Derived: Causative prefix; Base: Plural nominalization; 1st person plural possessive; Added: Accusative / cohortative,አስፅሁፎቻችን
+3254,Conversation,ደብዳቤ መፃፍ ትፈልጋለህ?,Do you want to write a letter?,Task offer,ደብዳቤ መፃፍ ትፈልጋለህ?
+1596,Translation,ሞሃምድ አርሲ ሄዶ ቀረ።,ሞሃምድ went to Arsi and remained.,Sequential; Location,ሞሀምድ አርሲ ሄዶ ቀረ።
+384,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+385,Conversation,የሕንፃ ፈቃድ ለማውጣት?,To get a building permit?,Government inquiry,የሕንፃ ፈቃድ ለማውጣት?
+3729,Translation,ናሁሴናይ ጎጃም ሄዶ አዩ።,ናሁሴናይ went to Gojam and saw.,Sequential; Location,ናሁሴናይ ጎጃም ሄዶ አዩ።
+4816,Translation,ተስፋዬ ሻንጣውን ጠበቀ።,ተስፋዬ waited the bag.,Simple Past; Personal name,ተስፋዬ ሻንጣውን ጠበቀ።
+267,Translation,ጌታሁን ነቀምት ሄዶ አነበበ።,ጌታሁን went to Nekemte and read.,Sequential; Location,ጌታሁን ነቀምት ሄዶ አነበበ።
+77,Ambiguity / Coreference,ትምህርት ቤቱ ርቆ ነው።,The school is far. / The schooling is distant (metaphor).,Literal vs metaphorical; Names varied: ናሁሴናይ/ሀሰን/አስቴርሃይ,ትምህርት ቤቱ ርቆ ነው።
+2521,Conversation,ወተት ስጠው።,Give milk.,Advice,ወተት ስጠው።
+3278,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+1294,Translation,ስለ ሰፈሩ አስደናቂ ነገሮች ይነገርለታል።,Amazing things are said about the neighborhood.,Passive; Impersonal,ስለ ሰፈሩ አስደናቂ ነገሮች ይነገርለታል።
+2862,Translation,ዳዊት ነገ መኪናውን ይወሰደዋል።,ዳዊት will took the car tomorrow.,Future; Personal name,ዳዊት ነገ መኪናውን ይወሰደዋል።
+213,Morphology,ሲፅፍ ቀረ,He remained writing,Persistent activity,ሲፅፍ ቀረ
+4616,Translation,አሳ አጠቃ ሄዶ ጥቃቱ ስጦታ ሆነ።,The attack turned into a gift.,Metaphorical; Transformation,አሳ አጠቃ ሄዶ ጥቃቱ ስጦታ ሆነ።
+1299,Ambiguity / Coreference,ጌታሁን ያስቴር ቤት ደርሶ ዋለ።,ጌታሁን spent the day having arrived at ሙሉ's house. / ጌታሁን spent the day at ሙሉ's house after arriving.,Resultat vs locative; Names varied: ሰሎሞን/ጌታሁን/ሙሉ,ጌታሁን ያስቴር ቤት ደርሶ ዋለ።
+4798,Translation,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።,ሊድያ wanted to presented the card.,Desiderative,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።
+2607,Conversation,የሕንፃ ፈቃድ ለማውጣት?,To get a building permit?,Government inquiry,የሕንፃ ፈቃድ ለማውጣት?
+1190,Morphology,ተሮጠ,Reciprocal/Passive prefix + He ran + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Past masculine singular; Added: 3rd plural object,ተሮጠ
+1218,Translation,ምሣ ሰዓት ሁሉም ወደ ካፌ ሮጠ።,At lunchtime everyone ran to the cafe.,Past; Time-specific,ምሣ ሰዓት ሁሉም ወደ ካፌ ሮጠ።
+418,Translation,ሙሉ ዓዋሳ ካሮጠ በኋላ ደስ አለ።,ሙሉ was happy after running in Awassa.,Temporal; Emotional,ሙሉ ዓዋሳ ካሮጠ በኋላ ደስ አለ።
+2451,Conversation,ርቧት ነው።,He/She is hungry.,Reason provision,ርቧት ነው።
+1630,Conversation,ርቧት ነው።,He/She is hungry.,Reason provision,ርቧት ነው።
+2566,Conversation,ምን ርዕስ ነው?,What is the subject?,Clarification,ምን ርዕስ ነው?
+1160,Conversation,መታወቂያ እና ፎቶ ያምጡ።,Bring ID and photo.,Banking; Document list,መታወቂያ እና ፎቶ ያምጡ።
+3859,Morphology,አስጸሎት,Causative prefix + Prayer + Accusative / cohortative,Derived: Causative prefix; Base: Verbal noun; Added: Accusative / cohortative,አስጸሎት
+3587,Ambiguity / Coreference,ሰሙ ውሻ ጮኸ።,The dog barked; they heard. / They heard the barking dog.,Relative clause vs simple clause; Names varied: ሊድያ/ቢኒያም/ፍቅርተ,ሰሙ ውሻ ጮኸ።
+1129,Translation,ብሩህ መኪናውንን አሳየ ሊአሳየ ፈለገ።,ብሩህ wanted to showed the car.,Desiderative,ብሩህ መኪናውንን አሳየ ሊአሳየ ፈለገ።
+897,Ambiguity / Coreference,ሰዎቹ ቤቱ ሙሉ ሁሉ ሞሉ።,All people filled the whole house. / The people filled the whole of the house.,Quantifier scope ambiguity; Names varied: ርዕሱ/ዘሪሁን/ሳሚቱ,ሰዎቹ ቤቱ ሙሉ ሁሉ ሞሉ።
+4972,Translation,ፀጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።,ፀጋዬ wanted to hurried the file.,Desiderative,ጸጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።
+3277,Translation,ሰሎሞን አዲስ አበባ ካሸጠ በኋላ ደስ አለ።,ሰሎሞን was happy after selling in Addis Ababa.,Temporal; Emotional,ሰሎሞን አዲስ አበባ ካሸጠ በኋላ ደስ አለ።
+76,Morphology,አስሊሰጣቸው,Causative prefix + About to give to them + Feminine object,Derived: Causative prefix; Base: Near-future with plural object; Added: Feminine object,አስሊሰጣቸው
+2968,Morphology,ተፈፅሞ ሄደ,Reciprocal/Passive prefix + He went after completing + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Sequential past; Added: 3rd plural object,ተፈፅሞ ሄደ
+4243,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+2435,Translation,ርዕሱ ሪፖርቱን ዘፈነ።,ርዕሱ sang the report.,Simple Past; Personal name,ርዕሱ ሪፖርቱን ዘፈነ።
+1432,Translation,ተስፋዬ ሻንጣውን ጠበቀ።,ተስፋዬ waited the bag.,Simple Past; Personal name,ተስፋዬ ሻንጣውን ጠበቀ።
+2867,Conversation,ደብዳቤ መፃፍ ትፈልጋለህ?,Do you want to write a letter?,Task offer,ደብዳቤ መፃፍ ትፈልጋለህ?
+2791,Morphology,ሲቆንጆ ልጅ,Temporal/Continuous prefix + Beautiful child + Present perfect 3sg,Derived: Temporal/Continuous prefix; Base: Adjective-noun NP; Added: Present perfect 3sg,ሲቆንጆ ልጅ
+1688,Ambiguity / Coreference,ምርት ሲሰበሰብ ዘፈን ዘፈኑ።,"When the harvest was gathered, they sang. / While gathering the harvest, they sang.",Temporal: sequential vs simultaneous; Names varied: ፀጋዬ/ቤቴል/ሶፊያ,ምርት ሲሰበሰብ ዘፈን ዘፈኑ።
+4288,Translation,አለሙ ሰሜን ሸዋ ሄዶ ሄደ።,አለሙ went to North Shewa and went.,Sequential; Location,አለሙ ሰሜን ሸዋ ሄዶ ሄደ።
+4821,Morphology,ሊሊሰጠው,Near-future prefix + About to give to him + Present perfect 3sg,Derived: Near-future prefix; Base: Near-future with object; Added: Present perfect 3sg,ሊሊሰጠው
+3373,Morphology,ሊሳይታወቅ,Near-future prefix + Without being known + 3rd plural / nominalization,Derived: Near-future prefix; Base: Negative passive gerundive; Added: 3rd plural / nominalization,ሊሳይታወቅ
+3764,Translation,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።,ሀሰን remained without working the letter.,Negated gerundive,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።
+1765,Translation,አለሙ መፅሀፉንን ሄደ ጨረሰ።,አለሙ finished going the book.,Completive aspect,አለሙ መፅሀፉንን ሄደ ጨረሰ።
+982,Ambiguity / Coreference,ፀጋዬ ምሣ ሳለ ስልኩ ደወለ።,ፀጋዬ's phone rang while he was having lunch.,Possessive: whose phone?; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ጸጋዬ ምሣ ሳለ ስልኩ ደወለ።
+724,Ambiguity / Coreference,ዮሐንስ ለሲዞ ሰጡ።,They gave to ዮሐንስ for Sizo. / They gave ዮሐንስ's Sizo.,Benefactive vs possessive; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,ዮሀንስ ለሲዞ ሰጡ።
+368,Conversation,ጽፌ ሰጥቻለሁ።,I have written and given it.,Completion,ጽፌ ሰጥቻለሁ።
+712,Ambiguity / Coreference,ሀሰን ወደደ።,Hassan loved. / Hassan was liked.,Active vs passive ambiguity; Names varied: ብሩህ/ተስፋዬ/ለምለም,ሀሰን ወደደ።
+272,Translation,ደጉ ሰው ሊመጣ ነው።,The kind person is about to come.,Near future; Descriptive,ደጉ ሰው ሊመጣ ነው።
+682,Conversation,ርቧት ነው።,He/She is hungry.,Reason provision,ርቧት ነው።
+4871,Translation,ሰሎሞን ነቀምት ካሸጠ በኋላ ደስ አለ።,ሰሎሞን was happy after selling in Nekemte.,Temporal; Emotional,ሰሎሞን ነቀምት ካሸጠ በኋላ ደስ አለ።
+633,Translation,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።,ሊድያ wanted to presented the card.,Desiderative,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።
+2309,Translation,ቤቱ ወርቃማ ቀለም ተቀብቷል።,The house has been painted gold.,Passive; Aesthetic,ቤቱ ወርቃማ ቀለም ተቀብቷል።
+3549,Morphology,ሊሮጥን,Near-future prefix + Let us run + Feminine object,Derived: Near-future prefix; Base: Cohortative plural; Added: Feminine object,ሊሮጥን
+157,Translation,ሊድያ ካርዱን ሳያአቀረበ ቀረ።,ሊድያ remained without presenting the card.,Negated gerundive,ሊድያ ካርዱን ሳያአቀረበ ቀረ።
+3468,Translation,ሞሃምድ ስልኩንን ቀረ ጨረሰ።,ሞሃምድ finished remaining the phone.,Completive aspect,ሞሀምድ ስልኩንን ቀረ ጨረሰ።
+2143,Conversation,ጽፌ ሰጥቻለሁ።,I have written and given it.,Completion,ጽፌ ሰጥቻለሁ።
+3230,Ambiguity / Coreference,ከዚህ ርቆ ሄደ።,He went far from here. / He distanced himself and went.,Resultative vs degree ambiguity; Names varied: ሙሉ/ሞሃምድ/ምህረት,ከዚህ ርቆ ሄደ።
+4648,Ambiguity / Coreference,ሁሉም ጓደኛ ሰጠ።,Every friend gave. / Everyone gave a friend.,Universal scope ambiguity; Names varied: ዮሐንስ/ብሩህ/ሂሩት,ሁሉም ጓደኛ ሰጠ።
+2667,Translation,ተስፋዬ ሻንጣውን ጠበቀ።,ተስፋዬ waited the bag.,Simple Past; Personal name,ተስፋዬ ሻንጣውን ጠበቀ።
+1428,Morphology,ሊፅፈው,Near-future prefix + Having written + Accusative / cohortative,Derived: Near-future prefix; Base: Gerundive plural; Added: Accusative / cohortative,ሊፅፈው
+544,Conversation,የሕንፃ ፈቃድ ለማውጣት?,To get a building permit?,Government inquiry,የሕንፃ ፈቃድ ለማውጣት?
+3298,Translation,ሞሃምድ ስልኩንን ቀረ ጨረሰ።,ሞሃምድ finished remaining the phone.,Completive aspect,ሞሀምድ ስልኩንን ቀረ ጨረሰ።
+596,Morphology,ሳይእስከ ቤቱ,Negative gerundive + Up to the house + 3rd plural / nominalization,Derived: Negative gerundive; Base: Terminal prefix: እስከ-; Added: 3rd plural / nominalization,ሳይእስከ ቤቱ
+692,Ambiguity / Coreference,ወንድሙን አየው።,He saw his brother / He saw himself.,Ambiguity: own or other's brother,ወንድሙን አየው።
+4922,Ambiguity / Coreference,ሞሃምድ ለበቀለ መፅሀፉን ሰጠው፤ እሱም አመሰገነው።,ሞሃምድ gave the book to Bekele; and he thanked him.,Coreference: he=Bekele; him=Alemu; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ሞሀምድ ለበቀለ መፅሀፉን ሰጠው፤ እሱም አመሰገነው።
+369,Morphology,እንሲወጡ,Cohortative prefix + When/While they go out + Present perfect 3sg,Derived: Cohortative prefix; Base: Continuous; Root: ወጣ; Plural; Added: Present perfect 3sg,እንሲወጡ
+3935,Translation,ሀሰን ደብዳቤውንን ሰራ ሊሰራ ፈለገ።,ሀሰን wanted to worked the letter.,Desiderative,ሀሰን ደብዳቤውንን ሰራ ሊሰራ ፈለገ።
+4050,Conversation,ምን ልስጠው?,What shall I give him?,Help offer,ምን ልስጠው?
+1135,Ambiguity / Coreference,ሁሉም ጓደኛ ሰጠ።,Every friend gave. / Everyone gave a friend.,Universal scope ambiguity; Names varied: ጌታሁን/ፍቅሩ/ወርቅነሽ,ሁሉም ጓደኛ ሰጠ።
+3441,Translation,ናሁሴናይ ጂማ ሄዶ አዩ።,ናሁሴናይ went to Jimma and saw.,Sequential; Location,ናሁሴናይ ጂማ ሄዶ አዩ።
+1576,Translation,ሀሱ ሰሞኑን ሺ ተናጋሪ ሆኗል።,Hasu has become a speaker of a thousand recently.,Current state; Recent change,ሀሱ ሰሞኑን ሺ ተናጋሪ ሆኗል።
+3405,Morphology,ሲአወጡት,Temporal/Continuous prefix + They took it out + Present perfect 3sg,Derived: Temporal/Continuous prefix; Base: Causative-directional; Root: ወጣ; Object: -ት; Added: Present perfect 3sg,ሲአወጡት
+1237,Morphology,በቤት,In the house,Locative prefix: በ-,በቤት
+4921,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+4732,Translation,ብሩህ መኪናውንን አሳየ ሊአሳየ ፈለገ።,ብሩህ wanted to showed the car.,Desiderative,ብሩህ መኪናውንን አሳየ ሊአሳየ ፈለገ።
+1363,Ambiguity / Coreference,ዘፈኑ አሁን ጀምሯል።,The song has started now. / It has started singing now.,Subject referent ambiguity; Names varied: ፍቅሩ/ካሳሁን/ጥሩ ሰናይ,ዘፈኑ አሁን ጀምሯል።
+3805,Conversation,ምን ልስጠው?,What shall I give him?,Help offer,ምን ልስጠው?
+1919,Conversation,ርቧት ነው።,He/She is hungry.,Reason provision,ርቧት ነው።
+111,Ambiguity / Coreference,ለሀሰን ሰጡ።,They gave to ሀሰን. / They gave for ሀሰን's sake.,Beneficiary vs purpose; Names varied: ናሁሴናይ/ሀሰን/አስቴርሃይ,ለሀሰን ሰጡ።
+707,Ambiguity / Coreference,ትላንት የተገዛው መኪና ተሰበረ።,The car bought yesterday broke down.,Temporal ambiguity: when did what happen?; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ትላንት የተገዛው መኪና ተሰበረ።
+662,Translation,ሰፋሪው አዲስ ቤት ሠርቷል።,The settler has built a new house.,Perfect,ሰፋሪው አዲስ ቤት ሰርቷል።
+1889,Translation,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።,ርዕሱ gave the report to ብሩህ.,Dative transfer; Past,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።
+2617,Translation,ካሳሁን ቤቱንን ለሀሰን ሰጠ።,ካሳሁን gave the house to ሀሰን.,Dative transfer; Past,ካሳሁን ቤቱንን ለሀሰን ሰጠ።
+3610,Translation,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።,ቢኒያም gave the book to ፍቅሩ.,Dative transfer; Past,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።
+3961,Conversation,ቅበላ ደብዳቤ ነው።,It is an acceptance letter.,Specification,ቅበላ ደብዳቤ ነው።
+2364,Translation,ቤቴል ስልኩን ጻፈ።,ቤቴል wrote the phone.,Simple Past; Personal name,ቤቴል ስልኩን ጻፈ።
+103,Conversation,አስተካክለናል፤ አመሰ።,We have fixed it; thank you.,Resolution,አስተካክለናል፤ አመሰ።
+821,Morphology,ተአሰጥቷል,Reciprocal/Passive prefix + He has caused to give + Accusative / cohortative,Derived: Reciprocal/Passive prefix; Base: Causative perfect; Added: Accusative / cohortative,ተአሰጥቷል
+2975,Morphology,ሲከቤቱ ውጭ,Temporal/Continuous prefix + Outside the house + 3rd plural object,Derived: Temporal/Continuous prefix; Base: Ablative+postposition; Added: 3rd plural object,ሲከቤቱ ውጭ
+4131,Morphology,ሳይዘፈን,Negative gerundive + Song / Singing + 3rd plural / nominalization,Derived: Negative gerundive; Base: Verbal noun; Added: 3rd plural / nominalization,ሳይዘፈን
+2773,Conversation,ምን ልስጠው?,What shall I give him?,Help offer,ምን ልስጠው?
+1860,Morphology,ሳይትምህርታቸውን,Negative gerundive + Their education + 3rd plural object,Derived: Negative gerundive; Base: Root: ትምህርት; Possessive: -አቸውን; Added: 3rd plural object,ሳይትምህርታቸውን
+3353,Conversation,ጽሕፈት ቤት ሄዱ።,Go to the office.,Escalation advice,ጽሕፈት ቤት ሄዱ።
+2557,Ambiguity / Coreference,አባቱ መኪናውን እንዲያጥብ ነገረው።,His father told him to wash the car.,Coreference: suffix -ው disambiguates,አባቱ መኪናውን እንዲያጥብ ነገረው።
+569,Ambiguity / Coreference,እሱ ራሱን ይወዳል།,He loves himself.,Reflexive construction; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,እሱ ራሱን ይወዳል
+3626,Morphology,ሲሲሰሩ,Temporal/Continuous prefix + While they work + Feminine object,Derived: Temporal/Continuous prefix; Base: Continuous prefix: ሲ-; Root: ሰራ; Added: Feminine object,ሲሲሰሩ
+3776,Ambiguity / Coreference,ቤቱ ላይ ነው።,It is on the house. / He is on top of it.,Locative referent ambiguity; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ቤቱ ላይ ነው።
+2851,Translation,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።,ዳዊት was happy after taking in Bahir Dar.,Temporal; Emotional,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።
+15,Morphology,አስፃፍ,Causative prefix + Write! (masc sg) + 3rd plural object,Derived: Causative prefix; Base: Imperative masculine; Added: 3rd plural object,አስፃፍ
+3424,Conversation,አዎ ለዩኒቨርሲቲ ነው።,Yes it is for university.,Context,አዎ ለዩኒቨርሲቲ ነው።
+849,Translation,ወንዙ ሙሉ ቅዝቃዜ ቢሆንም ተሻግረን ሄድን።,"Despite the river being very cold, we crossed and went.",Concessive; Past,ወንዙ ሙሉ ቅዝቃዜ ቢሆንም ተሻግረን ሄድን።
+737,Morphology,እንሊሮጡ,Cohortative prefix + About to run + Feminine object,Derived: Cohortative prefix; Base: Near-future infinitive plural; Added: Feminine object,እንሊሮጡ
+1400,Ambiguity / Coreference,ፈጠሩ።,They created. / They hurried. / They were created.,Triple verbal ambiguity; Names varied: ቢኒያም/ሰይፈ/ሰናዱ,ፈጠሩ።
+4245,Morphology,ሳይፅሁፉ,Negative gerundive + The written text / the writing + 3rd plural / nominalization,Derived: Negative gerundive; Base: Nominalized verb; Added: 3rd plural / nominalization,ሳይፅሁፉ
+4544,Morphology,ሲፅፉ,While they write,Continuous plural,ሲፅፉ
+3694,Translation,ብሩህ መኪናውንን አሳየ ሊአሳየ ፈለገ።,ብሩህ wanted to showed the car.,Desiderative,ብሩህ መኪናውንን አሳየ ሊአሳየ ፈለገ።
+3450,Conversation,አመሰ፤ ቆሟል።,Thank you; stopped.,Gratitude + resolution,አመሰ፤ ቆሟል።
+535,Translation,አለሙ ሀዋሳ ሄዶ ሄደ።,አለሙ went to Hawassa and went.,Sequential; Location,አለሙ ሀዋሳ ሄዶ ሄደ።
+4965,Translation,ሙሉ ነገ ፋይሉን ይሮጠዋል።,ሙሉ will ran the file tomorrow.,Future; Personal name,ሙሉ ነገ ፋይሉን ይሮጠዋል።
+4781,Translation,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።,ፍቅሩ wanted to arrived the bag.,Desiderative,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።
+59,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+978,Conversation,አዎ ቀናት ሆኗ።,Yes it has been days.,Confirmation,አዎ ቀናት ሆኗ።
+4030,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+2149,Translation,ዮሐንስ ሻንጣውንን ገዛ ጨረሰ።,ዮሐንስ finished buying the bag.,Completive aspect,ዮሀንስ ሻንጣውንን ገዛ ጨረሰ።
+1924,Ambiguity / Coreference,ካሳ ዳዊትን ካደረ ምን ይሆናል?,What happens if Kassa betrays David?,Name-verb ambiguity: ካደረ,ካሳ ዳዊትን ካደረ ምን ይሆናል?
+128,Translation,ቤቴል ስልኩንን ለሊድያ ሰጠ።,ቤቴል gave the phone to ሊድያ.,Dative transfer; Past,ቤቴል ስልኩንን ለሊድያ ሰጠ።
+1007,Translation,ዳዊት ነገ መኪናውን ይወሰደዋል።,ዳዊት will took the car tomorrow.,Future; Personal name,ዳዊት ነገ መኪናውን ይወሰደዋል።
+1834,Conversation,ሒሳቤ ስህተት ሆኗል።,My account has an error.,Issue statement,ሒሳቤ ስህተት ሆኗል።
+539,Conversation,ካርታ የቤቱ ወይስ መሬቱ?,Is it the house or land title?,Clarification,ካርታ የቤቱ ወይስ መሬቱ?
+2901,Conversation,ካርታ የቤቱ ወይስ መሬቱ?,Is it the house or land title?,Clarification,ካርታ የቤቱ ወይስ መሬቱ?
+3615,Morphology,ሲልብሳቸውን,Temporal/Continuous prefix + Their clothes + 3rd plural object,Derived: Temporal/Continuous prefix; Base: Root: ልብስ; Possessive: -አቸውን; Added: 3rd plural object,ሲልብሳቸውን
+2229,Ambiguity / Coreference,ዛሬ መጣ።,He came today / The day has come.,Lexical: ዛሬ as subject or adverb; Names varied: ፀጋዬ/ቤቴል/ሶፊያ,ዛሬ መጣ።
+1099,Conversation,ምን ርዕስ ነው?,What is the subject?,Clarification,ምን ርዕስ ነው?
+170,Translation,ቤቴል ስልኩንን ለሊድያ ሰጠ።,ቤቴል gave the phone to ሊድያ.,Dative transfer; Past,ቤቴል ስልኩንን ለሊድያ ሰጠ።
+4760,Translation,ዮሐንስ ባህር ዳር ሄዶ ገዛ።,ዮሐንስ went to Bahir Dar and bought.,Sequential; Location,ዮሀንስ ባህር ዳር ሄዶ ገዛ።
+3497,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+3271,Translation,አለሙ መፅሀፉንን ሄደ ጨረሰ።,አለሙ finished going the book.,Completive aspect,አለሙ መፅሀፉንን ሄደ ጨረሰ።
+2017,Translation,አለሙ ሀዋሳ ሄዶ ሄደ።,አለሙ went to Hawassa and went.,Sequential; Location,አለሙ ሀዋሳ ሄዶ ሄደ።
+3999,Translation,ካሳሁን ቤቱን ሰጠ።,ካሳሁን gave the house.,Simple Past; Personal name,ካሳሁን ቤቱን ሰጠ።
+1879,Morphology,ሲሮጡ,While they run,Continuous plural,ሲሮጡ
+4875,Translation,ጌታሁን ቤቱንን አነበበ ጨረሰ።,ጌታሁን finished reading the house.,Completive aspect,ጌታሁን ቤቱንን አነበበ ጨረሰ።
+4680,Morphology,ሲአልመጡም,Temporal/Continuous prefix + They did not come + Present perfect 3sg,Derived: Temporal/Continuous prefix; Base: Negative: አል-; Root: መጣ; Suffix: -ኡም; Added: Present perfect 3sg,ሲአልመጡም
+3753,Translation,ናሁሴናይ ጎጃም ሄዶ አዩ።,ናሁሴናይ went to Gojam and saw.,Sequential; Location,ናሁሴናይ ጎጃም ሄዶ አዩ።
+4429,Ambiguity / Coreference,ፀጋዬ ፊልሙን ያዩ ናቸው።,ፀጋዬ has seen the film. / ፀጋዬ is the one who sees films.,Perfect vs habitual relative; Names varied: ፀጋዬ/ቤቴል/ሶፊያ,ጸጋዬ ፊልሙን ያዩ ናቸው።
+2170,Morphology,ፅፊ,Write! (fem sg),Imperative feminine,ፅፊ
+2267,Conversation,ወተት ስጠው።,Give milk.,Advice,ወተት ስጠው።
+1329,Translation,ካሳሁን ቤቱንን ለሀሰን ሰጠ።,ካሳሁን gave the house to ሀሰን.,Dative transfer; Past,ካሳሁን ቤቱንን ለሀሰን ሰጠ።
+4431,Morphology,ተሲሮጥ ሄደ,Reciprocal/Passive prefix + He went running + Accusative / cohortative,Derived: Reciprocal/Passive prefix; Base: Simultaneous gerundive; Added: Accusative / cohortative,ተሲሮጥ ሄደ
+2108,Translation,ካሳሁን ቤቱንን ለሀሰን ሰጠ።,ካሳሁን gave the house to ሀሰን.,Dative transfer; Past,ካሳሁን ቤቱንን ለሀሰን ሰጠ።
+4216,Translation,ዘሪሁን ጂማ ካሰበሰበ በኋላ ደስ አለ።,ዘሪሁን was happy after gathering in Jimma.,Temporal; Emotional,ዘሪሁን ጂማ ካሰበሰበ በኋላ ደስ አለ።
+113,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+3833,Translation,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።,ርዕሱ gave the report to ብሩህ.,Dative transfer; Past,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።
+47,Translation,ርዕሱ ሪፖርቱን ዘፈነ።,ርዕሱ sang the report.,Simple Past; Personal name,ርዕሱ ሪፖርቱን ዘፈነ።
+331,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+3548,Ambiguity / Coreference,ርዕሱና ዘሪሁን ሲሄዱ ሳሚቱ አለቀሰ።,"When ርዕሱ and ዘሪሁን left, ሳሚቱ cried.",Coreference: whose departure caused crying?; Names varied: ርዕሱ/ዘሪሁን/ሳሚቱ,ርዕሱና ዘሪሁን ሲሄዱ ሳሚቱ አለቀሰ።
+2296,Morphology,ተለምዷቸዋል,Reciprocal/Passive prefix + He has gotten used to them + 3rd plural / nominalization,Derived: Reciprocal/Passive prefix; Base: Root: ለመደ; Perfect; Object: -አቸዋል; Added: 3rd plural / nominalization,ተለምዷቸዋል
+4196,Morphology,አስከቤት,Causative prefix + From the house + Present perfect 3sg,Derived: Causative prefix; Base: Ablative prefix: ከ-; Added: Present perfect 3sg,አስከቤት
+2385,Translation,ርዕሱ ሪፖርቱን ዘፈነ።,ርዕሱ sang the report.,Simple Past; Personal name,ርዕሱ ሪፖርቱን ዘፈነ።
+4823,Conversation,ጽሕፈት ቤት ሄዱ።,Go to the office.,Escalation advice,ጽሕፈት ቤት ሄዱ።
+4103,Conversation,አዎ ለዩኒቨርሲቲ ነው።,Yes it is for university.,Context,አዎ ለዩኒቨርሲቲ ነው።
+2209,Conversation,ርቧት ነው።,He/She is hungry.,Reason provision,ርቧት ነው።
+4349,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+2187,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+4973,Translation,መምህሩ ለተማሪዎቹ ትምህርት ሰጠ።,The teacher gave lessons to the students.,Past; Dative,መምህሩ ለተማሪዎቹ ትምህርት ሰጠ።
+2915,Translation,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።,ፍቅሩ wanted to arrived the bag.,Desiderative,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።
+227,Translation,ዮሐንስ አምቦ ሄዶ ገዛ።,ዮሐንስ went to Ambo and bought.,Sequential; Location,ዮሀንስ አምቦ ሄዶ ገዛ።
+4712,Translation,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።,ሀሰን remained without working the letter.,Negated gerundive,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።
+1931,Morphology,ሲትምህርታቸውን,Temporal/Continuous prefix + Their education + Feminine object,Derived: Temporal/Continuous prefix; Base: Root: ትምህርት; Possessive: -አቸውን; Added: Feminine object,ሲትምህርታቸውን
+2293,Translation,ሰሎሞን አዲስ አበባ ካሸጠ በኋላ ደስ አለ።,ሰሎሞን was happy after selling in Addis Ababa.,Temporal; Emotional,ሰሎሞን አዲስ አበባ ካሸጠ በኋላ ደስ አለ።
+2470,Ambiguity / Coreference,ካሌ አዲሱ ቤት አደረ።,Kale stayed at the new house. / New-house Kale stayed over.,NP scope ambiguity; Names varied: ዮሐንስ/ብሩህ/ሂሩት,ካሌ አዲሱ ቤት አደረ።
+2349,Ambiguity / Coreference,ቤቱ ሲፈርስ ሁሉ ጠፉ።,"When the house collapsed, all disappeared. / All disappeared while demolishing the house.",Causal vs instrumental ambiguity; Names varied: ጌታሁን/ፍቅሩ/ወርቅነሽ,ቤቱ ሲፈርስ ሁሉ ጠፉ።
+1872,Translation,ዮሐንስ ባህር ዳር ሄዶ ገዛ።,ዮሐንስ went to Bahir Dar and bought.,Sequential; Location,ዮሀንስ ባህር ዳር ሄዶ ገዛ።
+2924,Conversation,ቅበላ ደብዳቤ ነው።,It is an acceptance letter.,Specification,ቅበላ ደብዳቤ ነው።
+773,Translation,ዮሐንስ ጅጅጋ ሄዶ ገዛ።,ዮሐንስ went to Jigjiga and bought.,Sequential; Location,ዮሀንስ ጅጅጋ ሄዶ ገዛ።
+4511,Conversation,ምን ችግር አለዎ?,What is your problem?,Service opening,ምን ችግር አለዎ?
+4939,Conversation,ቅበላ ደብዳቤ ነው።,It is an acceptance letter.,Specification,ቅበላ ደብዳቤ ነው።
+1338,Translation,ሰዓቱ አርቦ ተሰብሰቡ።,They gathered when time was right.,Temporal; Past,ሰዓቱ አርቦ ተሰብሰቡ።
+556,Conversation,ስለ አምሃርኛ ቋንቋ ታሪክ ንገረኝ።,Tell me about the history of Amharic language.,Agentic; Knowledge request,ስለ አምሀርኛ ቋንቋ ታሪክ ንገረኝ።
+1702,Translation,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።,ዘሪሁን will gathered the letter tomorrow.,Future; Personal name,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።
+341,Conversation,ጽፌ ሰጥቻለሁ።,I have written and given it.,Completion,ጽፌ ሰጥቻለሁ።
+3659,Conversation,ቅጁን ፈርምተሃል?,Have you signed the copy?,Workplace; Verification,ቅጁን ፈርምተሀል?
+4650,Translation,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።,ሀሰን remained without working the letter.,Negated gerundive,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።
+4786,Morphology,ሊቆንጆዎቹ,Near-future prefix + The beautiful ones (plural definite) + Feminine object,Derived: Near-future prefix; Base: Adjective plural definite; Added: Feminine object,ሊቆንጆዎቹ
+73,Ambiguity / Coreference,ፈጠሩ።,They created. / They hurried. / They were created.,Triple verbal ambiguity; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ፈጠሩ።
+1183,Ambiguity / Coreference,ጌታሁን ለበቀለ መፅሀፉን ሰጠው፤ እሱም አመሰገነው።,ጌታሁን gave the book to Bekele; and he thanked him.,Coreference: he=Bekele; him=Alemu; Names varied: ጌታሁን/ፍቅሩ/ወርቅነሽ,ጌታሁን ለበቀለ መፅሀፉን ሰጠው፤ እሱም አመሰገነው።
+4835,Translation,ሀሰን ደብዳቤውንን ሰራ ሊሰራ ፈለገ።,ሀሰን wanted to worked the letter.,Desiderative,ሀሰን ደብዳቤውንን ሰራ ሊሰራ ፈለገ።
+4894,Conversation,የሕንፃ ፈቃድ ለማውጣት?,To get a building permit?,Government inquiry,የሕንፃ ፈቃድ ለማውጣት?
+4881,Conversation,ርቧት ነው።,He/She is hungry.,Reason provision,ርቧት ነው።
+2530,Ambiguity / Coreference,ሲናገር ቀረ።,"He remained speaking. / When he spoke, he stayed.",Purpose vs temporal ambiguity; Names varied: ካሳሁን/ሰሎሞን/አስቴር,ሲናገር ቀረ።
+2672,Ambiguity / Coreference,እሱ ራሱን ይወዳል།,He loves himself.,Reflexive construction; Names varied: ሰሎሞን/ጌታሁን/ሙሉ,እሱ ራሱን ይወዳል
+1,Translation,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።,ፍቅሩ remained without arriving the bag.,Negated gerundive,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።
+3107,Morphology,አስበላችሁ,Causative prefix + You (plural) ate + 3rd plural / nominalization,Derived: Causative prefix; Base: 2nd person plural conjugation; Added: 3rd plural / nominalization,አስበላችሁ
+328,Morphology,ተሳይሄዱ,Reciprocal/Passive prefix + Before they go / Without going + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Negative temporal gerundive; Plural; Added: 3rd plural object,ተሳይሄዱ
+4638,Translation,ቤቱ ደጃፍ ሲደርሱ ዝናቡ ተጀምሮ ነበር።,"When they reached the house door, the rain had already started.",Temporal; Past Perfect,ቤቱ ደጃፍ ሲደርሱ ዝናቡ ተጀምሮ ነበር።
+1665,Morphology,ፅፋ ሄደች,She wrote and left,Sequential gerundive feminine,ፅፋ ሄደች
+3285,Conversation,ሕፃናቱ ለምን አለቀሰ?,Why did the baby cry?,Social concern,ሕፃናቱ ለምን አለቀሰ?
+4503,Translation,ቤቴል ስልኩንን ለሊድያ ሰጠ።,ቤቴል gave the phone to ሊድያ.,Dative transfer; Past,ቤቴል ስልኩንን ለሊድያ ሰጠ።
+1631,Translation,አለሙ ሰሜን ሸዋ ሄዶ ሄደ።,አለሙ went to North Shewa and went.,Sequential; Location,አለሙ ሰሜን ሸዋ ሄዶ ሄደ።
+1835,Morphology,ፅፈዋል,They have written,Perfect plural,ፅፈዋል
+2063,Conversation,መሬቱ ካርታ ያምጡ።,Bring the land title.,Specification,መሬቱ ካርታ ያምጡ።
+4529,Translation,ዮሐንስ አምቦ ሄዶ ገዛ።,ዮሐንስ went to Ambo and bought.,Sequential; Location,ዮሀንስ አምቦ ሄዶ ገዛ።
+4767,Ambiguity / Coreference,ዛሬ መጣ።,He came today / The day has come.,Lexical: ዛሬ as subject or adverb; Names varied: ብሩህ/ተስፋዬ/ለምለም,ዛሬ መጣ።
+1960,Ambiguity / Coreference,ፀሀዪቱ ስሟ ማን ነው?,What is the artist's name? / What is the sun's name?,Noun ambiguity: ፀሀይ; Names varied: ዘሪሁን/ናሁሴናይ/ዘሪቱ,ጸሀዪቱ ስሟ ማን ነው?
+2928,Conversation,ስልካቸውን ደዊሉ።,Call their phone.,Instruction,ስልካቸውን ደዊሉ።
+716,Conversation,ካርታ የቤቱ ወይስ መሬቱ?,Is it the house or land title?,Clarification,ካርታ የቤቱ ወይስ መሬቱ?
+4866,Translation,ወደ ቤታችን እንጋብዛችኋለን።,We invite you all to our house.,Plural object suffix,ወደ ቤታችን እንጋብዛችኋለን።
+4120,Translation,ጌታሁን አዲስ አበባ ሄዶ አነበበ።,ጌታሁን went to Addis Ababa and read.,Sequential; Location,ጌታሁን አዲስ አበባ ሄዶ አነበበ።
+3960,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+4081,Conversation,ምን ያህል ጊዜ ሆኖዎታል?,How long have you had this?,Healthcare; Duration,ምን ያህል ጊዜ ሆኖዎታል?
+2406,Translation,ዮሐንስ ባህር ዳር ሄዶ ገዛ።,ዮሐንስ went to Bahir Dar and bought.,Sequential; Location,ዮሀንስ ባህር ዳር ሄዶ ገዛ።
+3628,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+4112,Conversation,ምን ችግር አለዎ?,What is your problem?,Service opening,ምን ችግር አለዎ?
+671,Ambiguity / Coreference,ቤቱን አናቅቶ ሄደ።,He shook the house and left. / He examined the house and left.,Lexical: አናቀጠ possible reading; Names varied: ሙሉ/ሞሃምድ/ምህረት,ቤቱን አናቅቶ ሄደ።
+4561,Conversation,አመሰ፤ ቆሟል።,Thank you; stopped.,Gratitude + resolution,አመሰ፤ ቆሟል።
+543,Translation,ዳዊት ነገ መኪናውን ይወሰደዋል።,ዳዊት will took the car tomorrow.,Future; Personal name,ዳዊት ነገ መኪናውን ይወሰደዋል።
+466,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+3559,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+407,Translation,ተስፋዬ ሻንጣውን ጠበቀ።,ተስፋዬ waited the bag.,Simple Past; Personal name,ተስፋዬ ሻንጣውን ጠበቀ።
+3246,Translation,ሊድያ ካርዱን ሳያአቀረበ ቀረ።,ሊድያ remained without presenting the card.,Negated gerundive,ሊድያ ካርዱን ሳያአቀረበ ቀረ።
+1648,Conversation,ኢንዴርኔት ቀርቷል?,Has the internet gone out?,Tech inquiry,ኢንዴርኔት ቀርቷል?
+3781,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+1801,Conversation,ምን ርዕስ ነው?,What is the subject?,Clarification,ምን ርዕስ ነው?
+4014,Conversation,ምን ችግር አለዎ?,What is your problem?,Service opening,ምን ችግር አለዎ?
+378,Translation,ዳዊት ነገ መኪናውን ይወሰደዋል።,ዳዊት will took the car tomorrow.,Future; Personal name,ዳዊት ነገ መኪናውን ይወሰደዋል።
+2417,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+3682,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+1344,Translation,ዳዊት ነገ መኪናውን ይወሰደዋል።,ዳዊት will took the car tomorrow.,Future; Personal name,ዳዊት ነገ መኪናውን ይወሰደዋል።
+2269,Translation,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።,ዘሪሁን will gathered the letter tomorrow.,Future; Personal name,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።
+3259,Conversation,ርቧት ነው።,He/She is hungry.,Reason provision,ርቧት ነው።
+1198,Translation,ምሣ ሰዓት ቦታ ሁሉ ሰዎቹ ሞሉ።,"At lunchtime, the place was full of people.",Past; Temporal descriptive,ምሣ ሰዓት ቦታ ሁሉ ሰዎቹ ሞሉ።
+4558,Conversation,ደብዳቤ መፃፍ ትፈልጋለህ?,Do you want to write a letter?,Task offer,ደብዳቤ መፃፍ ትፈልጋለህ?
+4919,Translation,ጌታሁን ቤቱንን አነበበ ጨረሰ።,ጌታሁን finished reading the house.,Completive aspect,ጌታሁን ቤቱንን አነበበ ጨረሰ።
+1383,Translation,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።,ዘሪሁን will gathered the letter tomorrow.,Future; Personal name,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።
+2205,Translation,ቤቱ ሲፈርስ ልቤ ደደ።,My heart sank when the house collapsed.,Temporal; Emotional consequence,ቤቱ ሲፈርስ ልቤ ደደ።
+146,Translation,ዮሐንስ ጅጅጋ ሄዶ ገዛ።,ዮሐንስ went to Jigjiga and bought.,Sequential; Location,ዮሀንስ ጅጅጋ ሄዶ ገዛ።
+410,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+4789,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+2921,Translation,እናቱ ስትጮህ ሰምቶ ሮጠ።,He ran after hearing his mother scream.,Sequential; Causal,እናቱ ስትጮህ ሰምቶ ሮጠ።
+1448,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+4379,Conversation,አስተካክለናል፤ አመሰ።,We have fixed it; thank you.,Resolution,አስተካክለናል፤ አመሰ።
+1948,Morphology,ተያስፃፋቸዋል,Reciprocal/Passive prefix + He causes them to write (habitually) + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Causative habitual plural object; Added: 3rd plural object,ተያስፃፋቸዋል
+4123,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+2109,Conversation,ሕፃናቱ ለምን አለቀሰ?,Why did the baby cry?,Social concern,ሕፃናቱ ለምን አለቀሰ?
+102,Morphology,ሊሊወድ ሞከረ ግን አልቻለም,Near-future prefix + He tried to love but could not + Present perfect 3sg,Derived: Near-future prefix; Base: Negative attempt; Added: Present perfect 3sg,ሊሊወድ ሞከረ ግን አልቻለም
+3864,Morphology,አስፈፀሙ,Causative prefix + They completed / Complete! (pl imp) + Feminine object,Derived: Causative prefix; Base: Ambiguous past/imperative; Added: Feminine object,አስፈጸሙ
+1647,Ambiguity / Coreference,ትላንት የተገዛው መኪና ተሰበረ።,The car bought yesterday broke down.,Temporal ambiguity: when did what happen?,ትላንት የተገዛው መኪና ተሰበረ።
+590,Translation,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።,ዳዊት was happy after taking in Bahir Dar.,Temporal; Emotional,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።
+2487,Morphology,አስቤቶቻችን,Causative prefix + Our houses + Present perfect 3sg,Derived: Causative prefix; Base: Root: ቤት; Plural: -ኦች; Possessive: -አችን; Added: Present perfect 3sg,አስቤቶቻችን
+2738,Morphology,ሲእንገናኛለን,Temporal/Continuous prefix + We will meet + Feminine object,Derived: Temporal/Continuous prefix; Base: Prefix: እን-; Suffix: -አለን; Added: Feminine object,ሲእንገናኛለን
+2192,Conversation,ይህ ምን ያህል ያወጣል?,How much does this cost?,Commerce; Price inquiry,ይህ ምን ያህል ያወጣል?
+4774,Translation,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።,ዳዊት was happy after taking in Bahir Dar.,Temporal; Emotional,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።
+2073,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+4308,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+3494,Translation,ተስፋዬ ሻንጣውን ጠበቀ።,ተስፋዬ waited the bag.,Simple Past; Personal name,ተስፋዬ ሻንጣውን ጠበቀ።
+3576,Translation,ሆስፒታሉ ማዕዘን ላይ ነው።,The hospital is on the corner.,Locative; Simple,ሆስፒታሉ ማዕዘን ላይ ነው።
+36,Conversation,ስልካቸውን ደዊሉ።,Call their phone.,Instruction,ስልካቸውን ደዊሉ።
+173,Translation,ቤቴል ስልኩንን ለሊድያ ሰጠ።,ቤቴል gave the phone to ሊድያ.,Dative transfer; Past,ቤቴል ስልኩንን ለሊድያ ሰጠ።
+4060,Ambiguity / Coreference,ለምን ሄዱ?,Why did they go? / Why did you (plural) go?,Person ambiguity: 3rd vs 2nd plural; Names varied: ሊድያ/ቢኒያም/ፍቅርተ,ለምን ሄዱ?
+2510,Translation,ዮሐንስ ጅጅጋ ሄዶ ገዛ።,ዮሐንስ went to Jigjiga and bought.,Sequential; Location,ዮሀንስ ጅጅጋ ሄዶ ገዛ።
+893,Ambiguity / Coreference,ጓደኞቻቸው ሌሊቱ ደረሱ።,"Their friends arrived at night. / Their friends arrived, the night (came).",Temporal vs sequential ambiguity; Names varied: ጌታሁን/ፍቅሩ/ወርቅነሽ,ጓደኞቻቸው ሌሊቱ ደረሱ።
+4263,Translation,ዮሐንስ አምቦ ሄዶ ገዛ።,ዮሐንስ went to Ambo and bought.,Sequential; Location,ዮሀንስ አምቦ ሄዶ ገዛ።
+3470,Translation,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።,ርዕሱ gave the report to ብሩህ.,Dative transfer; Past,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።
+3050,Ambiguity / Coreference,ሀሰን ምሣ ሳለ ስልኩ ደወለ።,ሀሰን's phone rang while he was having lunch.,Possessive: whose phone?; Names varied: ናሁሴናይ/ሀሰን/አስቴርሃይ,ሀሰን ምሣ ሳለ ስልኩ ደወለ።
+1832,Translation,ቤቱ ቅርብ ቢሆን ጥሩ ነበር።,It would be good if the house were near.,Conditional wish,ቤቱ ቅርብ ቢሆን ጥሩ ነበር።
+3873,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+2437,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+370,Conversation,ዎይ ፋይ አለ?,Is there Wi-Fi?,Hotel; Tech amenity,ዎይ ፋይ አለ?
+1722,Ambiguity / Coreference,ዘሪሁን ጻፈ፤ ማርያምም ጻፈቸ።,ዘሪሁን wrote; Mary also wrote.,Coreference: parallel topic shift; Names varied: ዘሪሁን/ናሁሴናይ/ዘሪቱ,ዘሪሁን ጻፈ፤ ማርያምም ጻፈቸ።
+3949,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+3262,Morphology,እንፅሁፎቻቸው,Cohortative prefix + Their writings + 3rd plural / nominalization,Derived: Cohortative prefix; Base: Plural nominalization with possessive; Added: 3rd plural / nominalization,እንፅሁፎቻቸው
+1062,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+4729,Translation,አለሙ መፅሀፉንን ሄደ ጨረሰ።,አለሙ finished going the book.,Completive aspect,አለሙ መፅሀፉንን ሄደ ጨረሰ።
+1493,Morphology,ሊሊያለቅሱ,Near-future prefix + They are about to weep + Feminine object,Derived: Near-future prefix; Base: Near-future; Infinitive; Added: Feminine object,ሊሊያለቅሱ
+4652,Translation,እህቴ በዩኒቨርሲቲ ትማራለች።,My sister studies at the university.,Locative; Prefix: በ-,እህቴ በዩኒቨርሲቲ ትማራለች።
+3124,Morphology,ሊፅፉ,Near-future prefix + Write! (plural) + Feminine object,Derived: Near-future prefix; Base: Imperative plural; Added: Feminine object,ሊፅፉ
+1153,Morphology,ተአዲሶቹ ቤቶች,Reciprocal/Passive prefix + The new houses + Present perfect 3sg,Derived: Reciprocal/Passive prefix; Base: Adj+definite plural NP; Added: Present perfect 3sg,ተአዲሶቹ ቤቶች
+3178,Ambiguity / Coreference,ልጁ ያድጋል።,The child will grow. / The boy will mature.,Semantic range: አደገ; Names varied: ርዕሱ/ዘሪሁን/ሳሚቱ,ልጁ ያድጋል።
+2280,Ambiguity / Coreference,ፀሀይ ወጣ ብለው ሰሙ።,They heard that the sun has risen / that Tsehay left.,Name vs noun: ፀሀይ; Names varied: ካሳሁን/ሰሎሞን/አስቴር,ጸሀይ ወጣ ብለው ሰሙ።
+1708,Ambiguity / Coreference,ሰብሰቡ ፤ ሁሉ ሞሉ።,They gathered; all were filled. / The gathered ones filled everything.,Referent continuity ambiguity; Names varied: አለሙ/ሊድያ/ሰናይት,ሰብሰቡ ፤ ሁሉ ሞሉ።
+4623,Ambiguity / Coreference,አበባ ደርሳ ሄደች።,Abeba arrived and left. / Abeba the flower went away.,Name vs noun; sequential; Names varied: ናሁሴናይ/ሀሰን/አስቴርሃይ,አበባ ደርሳ ሄደች።
+1476,Conversation,ምን ችግር አለዎ?,What is your problem?,Service opening,ምን ችግር አለዎ?
+4390,Ambiguity / Coreference,ዓሣ ያዙ ሰዎቹ ደሰቱ።,The people who caught fish were happy. / The people caught fish and were happy.,Relative clause vs sequential; Names varied: ሊድያ/ቢኒያም/ፍቅርተ,ዓሣ ያዙ ሰዎቹ ደሰቱ።
+2254,Morphology,ሊአለቀሱ,Near-future prefix + They wept + Accusative / cohortative,Derived: Near-future prefix; Base: Root: አለቀሰ; Past plural; Added: Accusative / cohortative,ሊአለቀሱ
+775,Translation,ካሳሁን ቤቱንን ለሀሰን ሰጠ።,ካሳሁን gave the house to ሀሰን.,Dative transfer; Past,ካሳሁን ቤቱንን ለሀሰን ሰጠ።
+3187,Morphology,እንይታወቃሉ,Cohortative prefix + They are known + Accusative / cohortative,Derived: Cohortative prefix; Base: Passive habitual plural; Added: Accusative / cohortative,እንይታወቃሉ
+2023,Translation,ፀጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።,ፀጋዬ wanted to hurried the file.,Desiderative,ጸጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።
+3162,Ambiguity / Coreference,ሀሰን ወደደ።,Hassan loved. / Hassan was liked.,Active vs passive ambiguity,ሀሰን ወደደ።
+3233,Conversation,ምን ርዕስ ነው?,What is the subject?,Clarification,ምን ርዕስ ነው?
+320,Morphology,ተተሰጠ,Reciprocal/Passive prefix + It was given + Accusative / cohortative,Derived: Reciprocal/Passive prefix; Base: Passive past; Added: Accusative / cohortative,ተተሰጠ
+2113,Translation,ፀሀይ ስትጠልቅ ቤታቸው ደረሱ።,They reached their home as the sun set.,Temporal; Narrative,ጸሀይ ስትጠልቅ ቤታቸው ደረሱ።
+4386,Ambiguity / Coreference,ዮሐንስ ለበቀለ መፅሀፉን ሰጠው፤ እሱም አመሰገነው።,ዮሐንስ gave the book to Bekele; and he thanked him.,Coreference: he=Bekele; him=Alemu; Names varied: ዮሐንስ/ብሩህ/ሂሩት,ዮሀንስ ለበቀለ መፅሀፉን ሰጠው፤ እሱም አመሰገነው።
+2598,Morphology,እንመፅሀፎቻቸውን,Cohortative prefix + Their books + 3rd plural object,Derived: Cohortative prefix; Base: Root: መፅሀፍ; Plural: -ኦች; Possessive: -አቸውን; Added: 3rd plural object,እንመፅሀፎቻቸውን
+397,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+3524,Morphology,ሲሰጥ,While giving,Continuous,ሲሰጥ
+4929,Translation,ዘሪሁን ሐረር ካሰበሰበ በኋላ ደስ አለ።,ዘሪሁን was happy after gathering in Harar.,Temporal; Emotional,ዘሪሁን ሀረር ካሰበሰበ በኋላ ደስ አለ።
+2646,Ambiguity / Coreference,ሰሎሞን ያለ ካሳሁን ሄደ።,ሰሎሞን left without ካሳሁን. / ሰሎሞን went where ካሳሁን is.,Preposition vs locative ambiguity; Names varied: ካሳሁን/ሰሎሞን/አስቴር,ሰሎሞን ያለ ካሳሁን ሄደ።
+1642,Translation,ፀጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።,ፀጋዬ wanted to hurried the file.,Desiderative,ጸጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።
+2898,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+959,Ambiguity / Coreference,ሲናገር ቀረ።,"He remained speaking. / When he spoke, he stayed.",Purpose vs temporal ambiguity; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ሲናገር ቀረ።
+3656,Conversation,ደብዳቤ መፃፍ ትፈልጋለህ?,Do you want to write a letter?,Task offer,ደብዳቤ መፃፍ ትፈልጋለህ?
+3146,Translation,ሙሉ ዓዋሳ ካሮጠ በኋላ ደስ አለ።,ሙሉ was happy after running in Awassa.,Temporal; Emotional,ሙሉ ዓዋሳ ካሮጠ በኋላ ደስ አለ።
+1492,Morphology,ሊሮጣ ሄደች,Near-future prefix + She ran and left + Present perfect 3sg,Derived: Near-future prefix; Base: Sequential gerundive feminine; Added: Present perfect 3sg,ሊሮጣ ሄደች
+2552,Conversation,ስምህ ማን ነው?,What is your name?,Question; Personal info,ስምህ ማን ነው?
+2561,Translation,ፀጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።,ፀጋዬ wanted to hurried the file.,Desiderative,ጸጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።
+1634,Morphology,ሲሳይበሉ,Temporal/Continuous prefix + Without eating + Feminine object,Derived: Temporal/Continuous prefix; Base: Negative gerundive; Root: በላ; Added: Feminine object,ሲሳይበሉ
+536,Translation,ሙሉ አርሲ ካሮጠ በኋላ ደስ አለ።,ሙሉ was happy after running in Arsi.,Temporal; Emotional,ሙሉ አርሲ ካሮጠ በኋላ ደስ አለ።
+799,Morphology,ሊይለያያሉ,Near-future prefix + They differ from each other + Accusative / cohortative,Derived: Near-future prefix; Base: Reciprocal habitual; Added: Accusative / cohortative,ሊይለያያሉ
+3073,Morphology,እንሳይሄዱ,Cohortative prefix + Before they go / Without going + Feminine object,Derived: Cohortative prefix; Base: Negative temporal gerundive; Plural; Added: Feminine object,እንሳይሄዱ
+1603,Morphology,ተመጣሉ,Reciprocal/Passive prefix + His coming + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Gerundive nominalization: -ኡ; Added: 3rd plural object,ተመጣሉ
+1503,Conversation,አስተካክለናል፤ አመሰ።,We have fixed it; thank you.,Resolution,አስተካክለናል፤ አመሰ።
+1690,Morphology,ሲይጠራሉ,Temporal/Continuous prefix + They are called + 3rd plural / nominalization,Derived: Temporal/Continuous prefix; Base: Passive habitual; Root: ጠራ; Suffix: -ዋል; Added: 3rd plural / nominalization,ሲይጠራሉ
+1178,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+2142,Translation,ዮሐንስ ጅጅጋ ሄዶ ገዛ።,ዮሐንስ went to Jigjiga and bought.,Sequential; Location,ዮሀንስ ጅጅጋ ሄዶ ገዛ።
+2708,Conversation,ርዕሱ ስለ አካባቢ ጥበቃ ነው።,The topic is about environmental protection.,Education; Topic,ርዕሱ ስለ አካባቢ ጥበቃ ነው።
+2289,Morphology,እንእንገናኛለን,Cohortative prefix + We will meet + Accusative / cohortative,Derived: Cohortative prefix; Base: Prefix: እን-; Suffix: -አለን; Added: Accusative / cohortative,እንእንገናኛለን
+786,Translation,ዮሐንስ ባህር ዳር ሄዶ ገዛ።,ዮሐንስ went to Bahir Dar and bought.,Sequential; Location,ዮሀንስ ባህር ዳር ሄዶ ገዛ።
+4621,Translation,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።,ናሁሴናይ finished seeing the report.,Completive aspect,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።
+3391,Translation,ርዕሱ ሪፖርቱን ዘፈነ።,ርዕሱ sang the report.,Simple Past; Personal name,ርዕሱ ሪፖርቱን ዘፈነ።
+3642,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+1163,Morphology,ይታወቃሉ,They are known,Passive habitual plural,ይታወቃሉ
+2277,Translation,አለሙ መፅሀፉንን ሄደ ጨረሰ።,አለሙ finished going the book.,Completive aspect,አለሙ መፅሀፉንን ሄደ ጨረሰ።
+784,Translation,ዳዊት ቢሄድ ኖሮ ጥሩ ነበር።,It would have been good if Dawit had gone.,Counterfactual conditional,ዳዊት ቢሄድ ኖሮ ጥሩ ነበር።
+159,Translation,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።,ዘሪሁን will gathered the letter tomorrow.,Future; Personal name,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።
+4802,Morphology,አስአዲሱ ቤት,Causative prefix + The new house + Feminine object,Derived: Causative prefix; Base: Adj+definite masculine NP; Added: Feminine object,አስአዲሱ ቤት
+2997,Ambiguity / Coreference,ሁሉም ሰው ይሰማዋል።,Everyone hears him / Everyone hears it.,Object ambiguity: -ዋል referent; Names varied: አለሙ/ሊድያ/ሰናይት,ሁሉም ሰው ይሰማዋል።
+1965,Ambiguity / Coreference,ካሳ ካለ ጥሩ ነው።,It is good if Kassa is there. / It is good that Kassa said.,Conditional vs quotative,ካሳ ካለ ጥሩ ነው።
+4084,Conversation,ምን ችግር አለዎ?,What is your problem?,Service opening,ምን ችግር አለዎ?
+886,Morphology,ተአልጋችን,Reciprocal/Passive prefix + Our bed + Present perfect 3sg,Derived: Reciprocal/Passive prefix; Base: Root: አልጋ; Possessive: -አችን; Added: Present perfect 3sg,ተአልጋችን
+1753,Morphology,ሳይእፅፍ,Negative gerundive + I will write + Present perfect 3sg,Derived: Negative gerundive; Base: 1st person singular future; Added: Present perfect 3sg,ሳይእፅፍ
+4793,Morphology,ሳይቆንጆው ልጅ,Negative gerundive + The beautiful child (masculine) + 3rd plural / nominalization,Derived: Negative gerundive; Base: Adj+definite masculine NP; Added: 3rd plural / nominalization,ሳይቆንጆው ልጅ
+2448,Translation,አለሙ ሰሜን ሸዋ ሄዶ ሄደ።,አለሙ went to North Shewa and went.,Sequential; Location,አለሙ ሰሜን ሸዋ ሄዶ ሄደ።
+2985,Translation,ሀሰን ደብዳቤውንን ሰራ ሊሰራ ፈለገ።,ሀሰን wanted to worked the letter.,Desiderative,ሀሰን ደብዳቤውንን ሰራ ሊሰራ ፈለገ።
+2691,Conversation,አመሰ፤ ቆሟል።,Thank you; stopped.,Gratitude + resolution,አመሰ፤ ቆሟል።
+3678,Ambiguity / Coreference,አባቱ መኪናውን እንዲያጥብ ነገረው።,His father told him to wash the car.,Coreference: suffix -ው disambiguates; Names varied: ፍቅሩ/ካሳሁን/ጥሩ ሰናይ,አባቱ መኪናውን እንዲያጥብ ነገረው።
+4257,Translation,ሞሃምድ ስልኩንን ቀረ ጨረሰ።,ሞሃምድ finished remaining the phone.,Completive aspect,ሞሀምድ ስልኩንን ቀረ ጨረሰ።
+438,Conversation,ምን ርዕስ ነው?,What is the subject?,Clarification,ምን ርዕስ ነው?
+4071,Morphology,እንፈፅሞ ይጨርሳል,Cohortative prefix + He will finish after completing + 3rd plural object,Derived: Cohortative prefix; Base: Sequential future; Added: 3rd plural object,እንፈፅሞ ይጨርሳል
+1593,Translation,ሞሃምድ አርሲ ሄዶ ቀረ።,ሞሃምድ went to Arsi and remained.,Sequential; Location,ሞሀምድ አርሲ ሄዶ ቀረ።
+1454,Ambiguity / Coreference,ሁሉም ሲናገሩ ቀሩ።,They all remained speaking. / All of them stayed when they spoke.,Purpose vs consequential ambiguity; Names varied: ናሁሴናይ/ሀሰን/አስቴርሃይ,ሁሉም ሲናገሩ ቀሩ።
+3520,Translation,ጌታሁን ቤቱንን አነበበ ጨረሰ።,ጌታሁን finished reading the house.,Completive aspect,ጌታሁን ቤቱንን አነበበ ጨረሰ።
+2477,Translation,ቤቴል ስልኩን ጻፈ።,ቤቴል wrote the phone.,Simple Past; Personal name,ቤቴል ስልኩን ጻፈ።
+2036,Morphology,ሳይሰጪ,Negative gerundive + Giver + Present perfect 3sg,Derived: Negative gerundive; Base: Agent nominalization; Added: Present perfect 3sg,ሳይሰጪ
+3698,Translation,አለሙ መፅሀፉንን ሄደ ጨረሰ።,አለሙ finished going the book.,Completive aspect,አለሙ መፅሀፉንን ሄደ ጨረሰ።
+408,Morphology,ተቆንጆ ልጅ,Reciprocal/Passive prefix + Beautiful child + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Adjective-noun NP; Added: 3rd plural object,ተቆንጆ ልጅ
+3013,Morphology,ተሞቃዎቹ,Reciprocal/Passive prefix + The warm ones (plural) + Accusative / cohortative,Derived: Reciprocal/Passive prefix; Base: Adjective plural definite; Added: Accusative / cohortative,ተሞቃዎቹ
+4238,Translation,ሰይፈ ዲሬ ዳዋ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in Dire Dawa.,Temporal; Emotional,ሰይፈ ዲሬ ዳዋ ካሰማ በኋላ ደስ አለ።
+2599,Ambiguity / Coreference,ፈጠሩ።,They created. / They hurried. / They were created.,Triple verbal ambiguity; Names varied: ጌታሁን/ፍቅሩ/ወርቅነሽ,ፈጠሩ።
+3125,Ambiguity / Coreference,ቤቱ ቀዝቅዞ ቀረ።,The house remained cold. / He remained cold at home.,Subject referent ambiguity; Names varied: ሰይፈ/አለሙ/ሰNA,ቤቱ ቀዝቅዞ ቀረ።
+3874,Translation,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።,ዘሪሁን will gathered the letter tomorrow.,Future; Personal name,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።
+4609,Translation,ሰይፈ ነገ ካርዱን ይሰማዋል።,ሰይፈ will heard the card tomorrow.,Future; Personal name,ሰይፈ ነገ ካርዱን ይሰማዋል።
+381,Morphology,እንሊሄድ ሲፈልግ ዋለ,Cohortative prefix + He spent the day wanting to go + 3rd plural object,Derived: Cohortative prefix; Base: Desire continuative; Added: 3rd plural object,እንሊሄድ ሲፈልግ ዋለ
+1524,Ambiguity / Coreference,ሲናገር ቀረ።,"He remained speaking. / When he spoke, he stayed.",Purpose vs temporal ambiguity; Names varied: ተስፋዬ/ዳዊት/ቤዛ,ሲናገር ቀረ።
+3261,Conversation,ስልካቸውን ደዊሉ።,Call their phone.,Instruction,ስልካቸውን ደዊሉ።
+1785,Translation,ዳዊት ነገ መኪናውን ይወሰደዋል።,ዳዊት will took the car tomorrow.,Future; Personal name,ዳዊት ነገ መኪናውን ይወሰደዋል።
+1403,Ambiguity / Coreference,ሰራተኛው ጌታውን መታው።,The worker hit his master.,Ambiguity: reflexive 'his own master',ሰራተኛው ጌታውን መታው።
+4804,Conversation,አዎ ቀናት ሆኗ።,Yes it has been days.,Confirmation,አዎ ቀናት ሆኗ።
+1874,Translation,ቢኒያም መፅሀፉን ጠቀሰ።,ቢኒያም mentioned the book.,Simple Past; Personal name,ቢኒያም መፅሀፉን ጠቀሰ።
+1435,Morphology,ተአስሰጠ,Reciprocal/Passive prefix + He caused to give + Feminine object,Derived: Reciprocal/Passive prefix; Base: Causative past; Added: Feminine object,ተአስሰጠ
+2863,Conversation,ምን ችግር አለዎ?,What is your problem?,Service opening,ምን ችግር አለዎ?
+1558,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+2132,Conversation,ወተት ስጠው።,Give milk.,Advice,ወተት ስጠው።
+3850,Translation,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።,ሀሰን remained without working the letter.,Negated gerundive,ሀሰን ደብዳቤውን ሳያሰራ ቀረ።
+1769,Ambiguity / Coreference,ልጁ ያድጋል።,The child will grow. / The boy will mature.,Semantic range: አደገ; Names varied: ጌታሁን/ፍቅሩ/ወርቅነሽ,ልጁ ያድጋል።
+39,Translation,ልጅቷ በደንብ ትጨፍራለች።,The girl dances well.,Present; Adverb,ልጅቷ በደንብ ትጨፍራለች።
+2857,Translation,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።,ቢኒያም gave the book to ፍቅሩ.,Dative transfer; Past,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።
+263,Translation,ቤቱ ፊት ለፊት ፀሀይ ትወጣለች።,The sun rises in front of the house.,Descriptive; Locative,ቤቱ ፊት ለፊት ጸሀይ ትወጣለች።
+2987,Conversation,አስተካክለናል፤ አመሰ።,We have fixed it; thank you.,Resolution,አስተካክለናል፤ አመሰ።
+3224,Morphology,አስእፅፍ,Causative prefix + I will write + Feminine object,Derived: Causative prefix; Base: 1st person singular future; Added: Feminine object,አስእፅፍ
+4266,Translation,ቢኒያም መፅሀፉን ጠቀሰ።,ቢኒያም mentioned the book.,Simple Past; Personal name,ቢኒያም መፅሀፉን ጠቀሰ።
+4328,Translation,ልብሱ ሰፍቶ ተዘጋጅቷል።,The clothes have been sewn and prepared.,Passive; Perfect,ልብሱ ሰፍቶ ተዘጋጅቷል።
+2123,Morphology,ሳይሳይበሉ,Negative gerundive + Without eating + 3rd plural object,Derived: Negative gerundive; Base: Negative gerundive; Root: በላ; Added: 3rd plural object,ሳይሳይበሉ
+1538,Ambiguity / Coreference,ሰዎቹ አዲሱ ዘፈን ወደዱ።,The people liked the new song. / New people liked the song.,NP scope: adjective attachment; Names varied: ፍቅሩ/ካሳሁን/ጥሩ ሰናይ,ሰዎቹ አዲሱ ዘፈን ወደዱ።
+2989,Translation,ሙሉ ነገ ፋይሉን ይሮጠዋል።,ሙሉ will ran the file tomorrow.,Future; Personal name,ሙሉ ነገ ፋይሉን ይሮጠዋል።
+4698,Conversation,የሕንፃ ፈቃድ ለማውጣት?,To get a building permit?,Government inquiry,የሕንፃ ፈቃድ ለማውጣት?
+344,Ambiguity / Coreference,ቤቱ ሲፈርስ ሁሉ ጠፉ።,"When the house collapsed, all disappeared. / All disappeared while demolishing the house.",Causal vs instrumental ambiguity; Names varied: ካሳሁን/ሰሎሞን/አስቴር,ቤቱ ሲፈርስ ሁሉ ጠፉ።
+4517,Ambiguity / Coreference,ሀሰን ያለ ናሁሴናይ ሄደ።,ሀሰን left without ናሁሴናይ. / ሀሰን went where ናሁሴናይ is.,Preposition vs locative ambiguity; Names varied: ናሁሴናይ/ሀሰን/አስቴርሃይ,ሀሰን ያለ ናሁሴናይ ሄደ።
+361,Morphology,ሊፅሕፈት,Near-future prefix + Writing / Scripture + 3rd plural object,Derived: Near-future prefix; Base: Verbal noun; Added: 3rd plural object,ሊፅሕፈት
+3633,Conversation,ሒሳቤ ስህተት ሆኗል።,My account has an error.,Issue statement,ሒሳቤ ስህተት ሆኗል።
+3276,Ambiguity / Coreference,ዓሣ አጠቃ።,Fish attacked. / (Someone) attacked the fish.,Transitive ambiguity; Names varied: ቢኒያም/ሰይፈ/ሰናዱ,ዓሣ አጠቃ።
+3436,Conversation,ሥዕሉን አልገባኝም፤ ያስረዱኝ።,I did not understand the picture; please explain.,Education; Request for help,ሥዕሉን አልገባኝም፤ ያስረዱኝ።
+404,Translation,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።,ዳዊት was happy after taking in Bahir Dar.,Temporal; Emotional,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።
+2240,Ambiguity / Coreference,ምርት ሲሰበሰብ ዘፈን ዘፈኑ።,"When the harvest was gathered, they sang. / While gathering the harvest, they sang.",Temporal: sequential vs simultaneous; Names varied: ሀሰን/ርዕሱ/ፀሀዪ,ምርት ሲሰበሰብ ዘፈን ዘፈኑ።
+4114,Morphology,ሲሲሰራ ጠዋቱ ሆነ,Temporal/Continuous prefix + Morning came while he worked + Feminine object,Derived: Temporal/Continuous prefix; Base: Temporal result; Added: Feminine object,ሲሲሰራ ጠዋቱ ሆነ
+236,Ambiguity / Coreference,ከዚህ ርቆ ሄደ።,He went far from here. / He distanced himself and went.,Resultative vs degree ambiguity; Names varied: ሊድያ/ቢኒያም/ፍቅርተ,ከዚህ ርቆ ሄደ።
+4371,Conversation,መሬቱ ካርታ ያምጡ።,Bring the land title.,Specification,መሬቱ ካርታ ያምጡ።
+34,Translation,ናሁሴናይ ሐረር ሄዶ አዩ።,ናሁሴናይ went to Harar and saw.,Sequential; Location,ናሁሴናይ ሀረር ሄዶ አዩ።
+3863,Translation,ርዕሱ ሪፖርቱን ዘፈነ።,ርዕሱ sang the report.,Simple Past; Personal name,ርዕሱ ሪፖርቱን ዘፈነ።
+4758,Translation,ሕፃናቱ ሌሊቱ ፀጥ ብለው አሸሉ።,The babies slept quietly through the night.,Past; Adverbial,ሕፃናቱ ሌሊቱ ጸጥ ብለው አሸሉ።
+2631,Ambiguity / Coreference,ሕፃናቷ ዮሐንስን ደሰቀቻቸው።,ሕፃናቷ pleased ዮሐንስ. / ሕፃናቷ pleased them (including ዮሐንስ).,Object scope ambiguity: -አቸው; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,ሕፃናቷ ዮሀንስን ደሰቀቻቸው።
+3816,Ambiguity / Coreference,ሰራተኛው ጌታውን መታው።,The worker hit his master.,Ambiguity: reflexive 'his own master'; Names varied: ቤቴል/ሙሉ/አበባ,ሰራተኛው ጌታውን መታው።
+4714,Conversation,እንግዲያውስ ይኸውልህ።,Here it is then.,Handing over item,እንግዲያውስ ይኸውልህ።
+4559,Translation,ቢኒያም መፅሀፉን ጠቀሰ።,ቢኒያም mentioned the book.,Simple Past; Personal name,ቢኒያም መፅሀፉን ጠቀሰ።
+4779,Translation,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።,ርዕሱ gave the report to ብሩህ.,Dative transfer; Past,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።
+2314,Morphology,ሲአስፃፈ,Temporal/Continuous prefix + He caused to write + 3rd plural object,Derived: Temporal/Continuous prefix; Base: Causative: አስ-; Added: 3rd plural object,ሲአስፃፈ
+1236,Translation,ዮሐንስ ሻንጣውንን ገዛ ጨረሰ።,ዮሐንስ finished buying the bag.,Completive aspect,ዮሀንስ ሻንጣውንን ገዛ ጨረሰ።
+2629,Morphology,ሊፅፊ,Near-future prefix + Write! (fem sg) + Present perfect 3sg,Derived: Near-future prefix; Base: Imperative feminine; Added: Present perfect 3sg,ሊፅፊ
+1516,Morphology,አስሮጡ,Causative prefix + They ran / Run! + Present perfect 3sg,Derived: Causative prefix; Base: Ambiguous: Past vs Imperative plural; Added: Present perfect 3sg,አስሮጡ
+3051,Translation,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።,ናሁሴናይ finished seeing the report.,Completive aspect,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።
+3204,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+238,Ambiguity / Coreference,ቤቱን ሰጡ ለካሳ።,They gave the house to Kassa. / They gave Kassa's house.,Dative vs possessive ambiguity,ቤቱን ሰጡ ለካሳ።
+669,Morphology,ሊያስፃፋታል,Near-future prefix + He causes her to write (habitually) + 3rd plural object,Derived: Near-future prefix; Base: Causative habitual feminine object; Added: 3rd plural object,ሊያስፃፋታል
+4834,Morphology,አስሲሰራ ጠዋቱ ሆነ,Causative prefix + Morning came while he worked + Accusative / cohortative,Derived: Causative prefix; Base: Temporal result; Added: Accusative / cohortative,አስሲሰራ ጠዋቱ ሆነ
+3742,Translation,ቢኒያም መፅሀፉን ጠቀሰ።,ቢኒያም mentioned the book.,Simple Past; Personal name,ቢኒያም መፅሀፉን ጠቀሰ።
+308,Morphology,ሳይአስነጠሰው,Negative gerundive + It made him sneeze + Feminine object,Derived: Negative gerundive; Base: Causal: አስ-; Root: ነጠሰ; Object: -ው; Added: Feminine object,ሳይአስነጠሰው
+3322,Translation,ህፃናቶቹ ምሳ ካደረጉ በኋላ ጨዋታ ጀመሩ።,"After the children had lunch, they started playing.",Temporal; Sequential,ህፃናቶቹ ምሳ ካደረጉ በኋላ ጨዋታ ጀመሩ።
+3309,Ambiguity / Coreference,አባቱ መኪናውን እንዲያጥብ ነገረው።,His father told him to wash the car.,Coreference: suffix -ው disambiguates; Names varied: ብሩህ/ተስፋዬ/ለምለም,አባቱ መኪናውን እንዲያጥብ ነገረው።
+4595,Conversation,ጽፌ ሰጥቻለሁ።,I have written and given it.,Completion,ጽፌ ሰጥቻለሁ።
+4116,Conversation,ጽሕፈት ቤት ሄዱ።,Go to the office.,Escalation advice,ጽሕፈት ቤት ሄዱ።
+4864,Morphology,ሳይሲመላለሱ,Negative gerundive + While they go back and forth + 3rd plural object,Derived: Negative gerundive; Base: Frequentative: መ-ላ-ለሰ; Prefix: ሲ-; Added: 3rd plural object,ሳይሲመላለሱ
+998,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+3914,Ambiguity / Coreference,ሀሰን ቡናውን ሰጠው።,Hassan gave him the coffee. / Hassan's coffee gave him.,Subject-object ambiguity; Names varied: ብሩህ/ተስፋዬ/ለምለም,ሀሰን ቡናውን ሰጠው።
+2182,Conversation,ሰላም፤ እንደምን አለህ?,Hello; how are you?,Standard greeting,ሰላም፤ እንደምን አለህ?
+1528,Translation,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።,ዘሪሁን will gathered the letter tomorrow.,Future; Personal name,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።
+4311,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+781,Morphology,እንሲሮጥ ወደቀ,Cohortative prefix + He fell while running + 3rd plural object,Derived: Cohortative prefix; Base: Simultaneous negative result; Added: 3rd plural object,እንሲሮጥ ወደቀ
+2591,Ambiguity / Coreference,ጓደኞቻቸው ሌሊቱ ደረሱ።,"Their friends arrived at night. / Their friends arrived, the night (came).",Temporal vs sequential ambiguity; Names varied: ቢኒያም/ሰይፈ/ሰናዱ,ጓደኞቻቸው ሌሊቱ ደረሱ።
+2714,Conversation,የሕንፃ ፈቃድ ለማውጣት?,To get a building permit?,Government inquiry,የሕንፃ ፈቃድ ለማውጣት?
+1337,Ambiguity / Coreference,ትምህርት ቤቱ ርቆ ነው።,The school is far. / The schooling is distant (metaphor).,Literal vs metaphorical; Names varied: ካሳሁን/ሰሎሞን/አስቴር,ትምህርት ቤቱ ርቆ ነው።
+4976,Morphology,ሲሲፃፍ,Temporal/Continuous prefix + While/when being written + Present perfect 3sg,Derived: Temporal/Continuous prefix; Base: Passive continuous; Added: Present perfect 3sg,ሲሲፃፍ
+2256,Ambiguity / Coreference,ሀሰን ወደደ።,Hassan loved. / Hassan was liked.,Active vs passive ambiguity; Names varied: ሰሎሞን/ጌታሁን/ሙሉ,ሀሰን ወደደ።
+1041,Ambiguity / Coreference,ሞሃምድ ሰርቶ ቀረ።,ሞሃምድ worked and stayed. / ሞሃምድ remained having worked.,Sequential vs resultative; Names varied: ሙሉ/ሞሃምድ/ምህረት,ሞሀምድ ሰርቶ ቀረ።
+2794,Conversation,ደብዳቤ መፃፍ ትፈልጋለህ?,Do you want to write a letter?,Task offer,ደብዳቤ መፃፍ ትፈልጋለህ?
+4800,Conversation,አዎ ቀናት ሆኗ።,Yes it has been days.,Confirmation,አዎ ቀናት ሆኗ።
+3747,Ambiguity / Coreference,ቤቱ ቀዝቅዞ ቀረ።,The house remained cold. / He remained cold at home.,Subject referent ambiguity,ቤቱ ቀዝቅዞ ቀረ።
+1599,Conversation,ምን ልስጠው?,What shall I give him?,Help offer,ምን ልስጠው?
+4166,Morphology,አስሲያለቅስ ለሌሊቱ ቀረ,Causative prefix + He remained crying through the night + 3rd plural object,Derived: Causative prefix; Base: Night-long state; Added: 3rd plural object,አስሲያለቅስ ለሌሊቱ ቀረ
+2731,Conversation,ደብዳቤ መፃፍ ትፈልጋለህ?,Do you want to write a letter?,Task offer,ደብዳቤ መፃፍ ትፈልጋለህ?
+1823,Morphology,ተይፅፍ,Reciprocal/Passive prefix + Let him write + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Jussive masculine; Added: 3rd plural object,ተይፅፍ
+208,Conversation,ጽሕፈት ቤት ሄዱ።,Go to the office.,Escalation advice,ጽሕፈት ቤት ሄዱ።
+4942,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+4313,Ambiguity / Coreference,ሁሉም ሰው ይሰማዋል።,Everyone hears him / Everyone hears it.,Object ambiguity: -ዋል referent; Names varied: ቤቴል/ሙሉ/አበባ,ሁሉም ሰው ይሰማዋል።
+1950,Ambiguity / Coreference,ልጅቷ እናቷን ትወዳለች።,The girl loves her mother.,Coreference: her=girl's own mother; Names varied: ቤቴል/ሙሉ/አበባ,ልጅቷ እናቷን ትወዳለች።
+1386,Translation,መኪናው በመንገዱ መሃል ቆመ።,The car stopped in the middle of the road.,Past; Spatial,መኪናው በመንገዱ መሀል ቆመ።
+4530,Translation,አለሙ ሀዋሳ ሄዶ ሄደ።,አለሙ went to Hawassa and went.,Sequential; Location,አለሙ ሀዋሳ ሄዶ ሄደ።
+1046,Ambiguity / Coreference,እሱ ራሱን ይወዳል།,He loves himself.,Reflexive construction; Names varied: ፀጋዬ/ቤቴል/ሶፊያ,እሱ ራሱን ይወዳል
+83,Conversation,አዎ ለዩኒቨርሲቲ ነው።,Yes it is for university.,Context,አዎ ለዩኒቨርሲቲ ነው።
+3995,Translation,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።,ቢኒያም gave the book to ፍቅሩ.,Dative transfer; Past,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።
+4770,Translation,ካሳሁን ቤቱን ሰጠ።,ካሳሁን gave the house.,Simple Past; Personal name,ካሳሁን ቤቱን ሰጠ።
+912,Translation,ሞሃምድ አርሲ ሄዶ ቀረ።,ሞሃምድ went to Arsi and remained.,Sequential; Location,ሞሀምድ አርሲ ሄዶ ቀረ።
+3238,Conversation,ምን ርዕስ ነው?,What is the subject?,Clarification,ምን ርዕስ ነው?
+571,Conversation,ቁጥሩን ይስጡን።,Please give us the number.,Request for info,ቁጥሩን ይስጡን።
+2102,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+2908,Morphology,ሳይቀዝቃዛ,Negative gerundive + Cold (singular) + 3rd plural / nominalization,Derived: Negative gerundive; Base: Root: ቀዝ; Reduplicative adjective; Added: 3rd plural / nominalization,ሳይቀዝቃዛ
+3824,Ambiguity / Coreference,ለምን ሄዱ?,Why did they go? / Why did you (plural) go?,Person ambiguity: 3rd vs 2nd plural; Names varied: ሰሎሞን/ጌታሁን/ሙሉ,ለምን ሄዱ?
+1700,Translation,ሰሎሞን ትግራይ ካሸጠ በኋላ ደስ አለ።,ሰሎሞን was happy after selling in Tigray.,Temporal; Emotional,ሰሎሞን ትግራይ ካሸጠ በኋላ ደስ አለ።
+4584,Conversation,ከቢሮ ጠርቻቸዋለሁ::,I am calling from the office.,Phone; Caller ID,ከቢሮ ጠርቻቸዋለሁ
+431,Conversation,ደብዳቤ መፃፍ ትፈልጋለህ?,Do you want to write a letter?,Task offer,ደብዳቤ መፃፍ ትፈልጋለህ?
+919,Ambiguity / Coreference,ቤቱ ላይ ነው።,It is on the house. / He is on top of it.,Locative referent ambiguity,ቤቱ ላይ ነው።
+293,Conversation,መሬቱ ካርታ ያምጡ።,Bring the land title.,Specification,መሬቱ ካርታ ያምጡ።
+4478,Conversation,አስተካክለናል፤ አመሰ።,We have fixed it; thank you.,Resolution,አስተካክለናል፤ አመሰ።
+552,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+4970,Conversation,ምን ርዕስ ነው?,What is the subject?,Clarification,ምን ርዕስ ነው?
+2551,Conversation,ወተት ስጠው።,Give milk.,Advice,ወተት ስጠው።
+1748,Conversation,ወተት ስጠው።,Give milk.,Advice,ወተት ስጠው።
+511,Translation,ዘፋኞቹ ደምፃቸውን ከፍ አድርገው ዘፈኑ።,The singers sang raising their voices.,Past; Adverbial,ዘፋኞቹ ደምፃቸውን ከፍ አድርገው ዘፈኑ።
+2147,Translation,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።,ዳዊት was happy after taking in Bahir Dar.,Temporal; Emotional,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።
+3931,Morphology,ተሲያስተምሩ,Reciprocal/Passive prefix + While they are teaching + Feminine object,Derived: Reciprocal/Passive prefix; Base: Causal prefix: አስ-; Continuous: ሲ-; Added: Feminine object,ተሲያስተምሩ
+1426,Translation,ዝናቡ ስቆም ሕዝቡ ዘፈን ፈጠረ።,"When the rain stopped, the people composed a song.",Temporal; Creative act,ዝናቡ ስቆም ሕዝቡ ዘፈን ፈጠረ።
+4666,Conversation,አዎ ቀናት ሆኗ።,Yes it has been days.,Confirmation,አዎ ቀናት ሆኗ።
+3784,Translation,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።,ሊድያ wanted to presented the card.,Desiderative,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።
+3593,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+302,Translation,ፖሊሱ ሌቡን አሰረ።,The police arrested the thief.,Past; Simple,ፖሊሱ ሌቡን አሰረ።
+427,Ambiguity / Coreference,አበባ ርዕሱ ለሀሰን ሰጠ።,Abeba gave ርዕሱ to/for ሀሰን. / The flower ርዕሱ gave to ሀሰን.,Triple assignment ambiguity; Names varied: ሀሰን/ርዕሱ/ፀሀዪ,አበባ ርዕሱ ለሀሰን ሰጠ።
+4358,Morphology,እንተነጋገርን,Cohortative prefix + We talked to each other + Feminine object,Derived: Cohortative prefix; Base: Reciprocal: ተ-; Root: ነገር; Added: Feminine object,እንተነጋገርን
+1196,Conversation,ስልካቸውን ደዊሉ።,Call their phone.,Instruction,ስልካቸውን ደዊሉ።
+3410,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+4567,Ambiguity / Coreference,ታምራትና አስቴር እራት በሉ፤ እሷ ጠገበች።,Tamirat and Aster ate; she was full.,Coreference: she (fem)=Aster,ታምራትና አስቴር እራት በሉ፤ እሷ ጠገበች።
+4889,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+2548,Conversation,ምን ችግር አለዎ?,What is your problem?,Service opening,ምን ችግር አለዎ?
+3343,Ambiguity / Coreference,ፀሀዩ ጠባይ አለው።,The tailor/sun has character.,Lexical: ፀሀይ = sun or tailor; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ጸሀዩ ጠባይ አለው።
+1232,Conversation,ጽፌ ሰጥቻለሁ።,I have written and given it.,Completion,ጽፌ ሰጥቻለሁ።
+4585,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+1359,Morphology,ሊአወጡት,Near-future prefix + They took it out + 3rd plural / nominalization,Derived: Near-future prefix; Base: Causative-directional; Root: ወጣ; Object: -ት; Added: 3rd plural / nominalization,ሊአወጡት
+1527,Ambiguity / Coreference,ሰራተኛው ጌታውን መታው።,The worker hit his master.,Ambiguity: reflexive 'his own master'; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ሰራተኛው ጌታውን መታው።
+2869,Conversation,ካርታ የቤቱ ወይስ መሬቱ?,Is it the house or land title?,Clarification,ካርታ የቤቱ ወይስ መሬቱ?
+4662,Translation,ፀጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።,ፀጋዬ wanted to hurried the file.,Desiderative,ጸጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።
+3326,Translation,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።,ቢኒያም gave the book to ፍቅሩ.,Dative transfer; Past,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።
+4140,Conversation,ምን ችግር አለዎ?,What is your problem?,Service opening,ምን ችግር አለዎ?
+3583,Translation,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።,ሊድያ wanted to presented the card.,Desiderative,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።
+4416,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+2814,Morphology,ሲአስተምሯቸዋል,Temporal/Continuous prefix + He has taught them + Accusative / cohortative,Derived: Temporal/Continuous prefix; Base: Causal + Perfect; Object: -አቸዋል; Added: Accusative / cohortative,ሲአስተምሯቸዋል
+2929,Conversation,አንድ ሌሊት አምስት መቶ ብር ነው።,Five hundred Birr per night.,Hotel; Rate response,አንድ ሌሊት አምስት መቶ ብር ነው።
+2341,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+1825,Translation,ሞሃምድ ደሴ ሄዶ ቀረ።,ሞሃምድ went to Dessie and remained.,Sequential; Location,ሞሀምድ ደሴ ሄዶ ቀረ።
+4583,Translation,ሞሃምድ ዓዋሳ ሄዶ ቀረ።,ሞሃምድ went to Awassa and remained.,Sequential; Location,ሞሀምድ ዓዋሳ ሄዶ ቀረ።
+4555,Morphology,ፅሁፎቻችን,Our writings,Plural nominalization; 1st person plural possessive,ፅሁፎቻችን
+3570,Morphology,አስያስፃፋታል,Causative prefix + He causes her to write (habitually) + Accusative / cohortative,Derived: Causative prefix; Base: Causative habitual feminine object; Added: Accusative / cohortative,አስያስፃፋታል
+2534,Translation,ጌታሁን ቤቱንን አነበበ ጨረሰ።,ጌታሁን finished reading the house.,Completive aspect,ጌታሁን ቤቱንን አነበበ ጨረሰ።
+3889,Conversation,ቁጥሩን ይስጡን።,Please give us the number.,Request for info,ቁጥሩን ይስጡን።
+3655,Translation,ሱቁ ዝቅተኛ ዋጋ ሸቀጥ ይዟል።,The shop has low-priced goods.,Present; Commerce,ሱቁ ዝቅተኛ ዋጋ ሸቀጥ ይዟል።
+1126,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+2800,Morphology,ሳይሊወድ ሞከረ ግን አልቻለም,Negative gerundive + He tried to love but could not + 3rd plural object,Derived: Negative gerundive; Base: Negative attempt; Added: 3rd plural object,ሳይሊወድ ሞከረ ግን አልቻለም
+4457,Morphology,ተያሮጡ,Reciprocal/Passive prefix + Let them run + Feminine object,Derived: Reciprocal/Passive prefix; Base: Jussive plural; Added: Feminine object,ተያሮጡ
+4963,Conversation,ምን ርዕስ ነው?,What is the subject?,Clarification,ምን ርዕስ ነው?
+3625,Conversation,ፊርማ ማን ማድረግ አለበት?,Who should sign?,Government; Signature inquiry,ፊርማ ማን ማድረግ አለበት?
+2489,Translation,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።,ቢኒያም gave the book to ፍቅሩ.,Dative transfer; Past,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።
+4322,Ambiguity / Coreference,ካሌ አዲሱ ቤት አደረ።,Kale stayed at the new house. / New-house Kale stayed over.,NP scope ambiguity; Names varied: ጌታሁን/ፍቅሩ/ወርቅነሽ,ካሌ አዲሱ ቤት አደረ።
+907,Conversation,የሕንፃ ፈቃድ ለማውጣት?,To get a building permit?,Government inquiry,የሕንፃ ፈቃድ ለማውጣት?
+938,Translation,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።,ሊድያ wanted to presented the card.,Desiderative,ሊድያ ካርዱንን አቀረበ ሊአቀረበ ፈለገ።
+3644,Translation,ሕዝቡ ምርጫ ሰጠ ሁሉም ደስ አለ።,The people voted and everyone was happy.,Sequential; Civic celebration,ሕዝቡ ምርጫ ሰጠ ሁሉም ደስ አለ።
+2711,Conversation,ፈተናው ዐርብ ነው።,The exam is on Friday.,Education; Schedule response,ፈተናው አርብ ነው።
+4227,Translation,ሕፃናቱ ዘፈን አዳምጠው ደሸቱ።,The children listened to music and fell asleep.,Sequential; Bedtime,ሕፃናቱ ዘፈን አዳምጠው ደሸቱ።
+3925,Morphology,ሊከቤቱ ወደ ሱቁ,Near-future prefix + From the house to the shop + Accusative / cohortative,Derived: Near-future prefix; Base: Double prepositional; Added: Accusative / cohortative,ሊከቤቱ ወደ ሱቁ
+117,Conversation,መሬቱ ካርታ ያምጡ።,Bring the land title.,Specification,መሬቱ ካርታ ያምጡ።
+2904,Morphology,ሮጡ,They ran / Run!,Ambiguous: Past vs Imperative plural,ሮጡ
+3081,Translation,ሊድያ ካርዱን ሳያአቀረበ ቀረ።,ሊድያ remained without presenting the card.,Negated gerundive,ሊድያ ካርዱን ሳያአቀረበ ቀረ።
+1540,Translation,ቢኒያም መፅሀፉን ጠቀሰ።,ቢኒያም mentioned the book.,Simple Past; Personal name,ቢኒያም መፅሀፉን ጠቀሰ።
+4829,Morphology,እንሳይለያዩ,Cohortative prefix + Without separating + Feminine object,Derived: Cohortative prefix; Base: Negative temporal reciprocal; Added: Feminine object,እንሳይለያዩ
+525,Translation,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።,ፍቅሩ wanted to arrived the bag.,Desiderative,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።
+3810,Conversation,አስተካክለናል፤ አመሰ።,We have fixed it; thank you.,Resolution,አስተካክለናል፤ አመሰ።
+830,Morphology,ሲቀዝቃዞቹ,Temporal/Continuous prefix + The cold ones (plural) + 3rd plural object,Derived: Temporal/Continuous prefix; Base: Adjective pluralized with definite; Added: 3rd plural object,ሲቀዝቃዞቹ
+216,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+4654,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+1401,Translation,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።,ናሁሴናይ finished seeing the report.,Completive aspect,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።
+2717,Translation,ዮሐንስ ባህር ዳር ሄዶ ገዛ።,ዮሐንስ went to Bahir Dar and bought.,Sequential; Location,ዮሀንስ ባህር ዳር ሄዶ ገዛ።
+1027,Translation,ቢኒያም መፅሀፉን ጠቀሰ።,ቢኒያም mentioned the book.,Simple Past; Personal name,ቢኒያም መፅሀፉን ጠቀሰ።
+3966,Morphology,ይለያያሉ,They differ from each other,Reciprocal habitual,ይለያያሉ
+1255,Conversation,ሒሳቤ ስህተት ሆኗል።,My account has an error.,Issue statement,ሒሳቤ ስህተት ሆኗል።
+4066,Morphology,ሊአስሰጠ,Near-future prefix + He caused to give + Present perfect 3sg,Derived: Near-future prefix; Base: Causative past; Added: Present perfect 3sg,ሊአስሰጠ
+1881,Conversation,ነገ ሰኞ ነው።,Tomorrow is Monday.,Agentic; Date response,ነገ ሰኞ ነው።
+4477,Morphology,ሊመጣሉ,Near-future prefix + His coming + Accusative / cohortative,Derived: Near-future prefix; Base: Gerundive nominalization: -ኡ; Added: Accusative / cohortative,ሊመጣሉ
+2330,Conversation,ኢንዴርኔት ቀርቷል?,Has the internet gone out?,Tech inquiry,ኢንዴርኔት ቀርቷል?
+4763,Morphology,ተተያይዘዋል,Reciprocal/Passive prefix + They are connected to each other + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Reciprocal perfect; Added: 3rd plural object,ተተያይዘዋል
+4282,Translation,ብዙ ሰዎች ወደ ሕዝቡ ቀርበው ያናግሯቸዋል።,Many people approach the community and speak to them.,Present; Iterative,ብዙ ሰዎች ወደ ሕዝቡ ቀርበው ያናግሯቸዋል።
+3226,Morphology,እንከቤቱ ወደ ሱቁ,Cohortative prefix + From the house to the shop + 3rd plural / nominalization,Derived: Cohortative prefix; Base: Double prepositional; Added: 3rd plural / nominalization,እንከቤቱ ወደ ሱቁ
+242,Morphology,አስሲፅፍ ቀረ,Causative prefix + He remained writing + 3rd plural / nominalization,Derived: Causative prefix; Base: Persistent activity; Added: 3rd plural / nominalization,አስሲፅፍ ቀረ
+4702,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+4739,Morphology,ሳይሮጡ,Negative gerundive + They ran / Run! + Feminine object,Derived: Negative gerundive; Base: Ambiguous: Past vs Imperative plural; Added: Feminine object,ሳይሮጡ
+4887,Translation,ጌታሁን ቤቱንን አነበበ ጨረሰ።,ጌታሁን finished reading the house.,Completive aspect,ጌታሁን ቤቱንን አነበበ ጨረሰ።
+3756,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+660,Morphology,ሳያስፃፍ,Without causing to write,Causative negative gerundive,ሳያስፃፍ
+4130,Conversation,የሕንፃ ፈቃድ ለማውጣት?,To get a building permit?,Government inquiry,የሕንፃ ፈቃድ ለማውጣት?
+567,Translation,ሞሃምድ ዓዋሳ ሄዶ ቀረ።,ሞሃምድ went to Awassa and remained.,Sequential; Location,ሞሀምድ ዓዋሳ ሄዶ ቀረ።
+750,Translation,ብሩህ መኪናውንን አሳየ ሊአሳየ ፈለገ።,ብሩህ wanted to showed the car.,Desiderative,ብሩህ መኪናውንን አሳየ ሊአሳየ ፈለገ።
+549,Conversation,ወተት ስጠው።,Give milk.,Advice,ወተት ስጠው።
+3641,Morphology,ሊቀዝቃዞቹ,Near-future prefix + The cold ones (plural) + Accusative / cohortative,Derived: Near-future prefix; Base: Adjective pluralized with definite; Added: Accusative / cohortative,ሊቀዝቃዞቹ
+4886,Translation,ቤቴል ስልኩን ጻፈ።,ቤቴል wrote the phone.,Simple Past; Personal name,ቤቴል ስልኩን ጻፈ።
+3253,Conversation,ወተት ስጠው።,Give milk.,Advice,ወተት ስጠው።
+3307,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+2344,Translation,ጌታሁን ቤቱንን አነበበ ጨረሰ።,ጌታሁን finished reading the house.,Completive aspect,ጌታሁን ቤቱንን አነበበ ጨረሰ።
+2760,Translation,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።,ናሁሴናይ finished seeing the report.,Completive aspect,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።
+4925,Morphology,ተተቀብሏት,Reciprocal/Passive prefix + He has received it + Feminine object,Derived: Reciprocal/Passive prefix; Base: Perfect; Passive-like; Object: -አት; Added: Feminine object,ተተቀብሏት
+4884,Morphology,ሳይሳይታወቅ,Negative gerundive + Without being known + Accusative / cohortative,Derived: Negative gerundive; Base: Negative passive gerundive; Added: Accusative / cohortative,ሳይሳይታወቅ
+4002,Morphology,መፅሀፎቻቸውን,Their books,Root: መፅሀፍ; Plural: -ኦች; Possessive: -አቸውን,መፅሀፎቻቸውን
+2317,Translation,ሞሃምድ ደሴ ሄዶ ቀረ።,ሞሃምድ went to Dessie and remained.,Sequential; Location,ሞሀምድ ደሴ ሄዶ ቀረ።
+615,Translation,ርዕሱ ሪፖርቱን ዘፈነ።,ርዕሱ sang the report.,Simple Past; Personal name,ርዕሱ ሪፖርቱን ዘፈነ።
+1656,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+887,Translation,ዮሐንስ አምቦ ሄዶ ገዛ።,ዮሐንስ went to Ambo and bought.,Sequential; Location,ዮሀንስ አምቦ ሄዶ ገዛ።
+366,Ambiguity / Coreference,ሜዳ ሙሉ ዘሩ።,They sowed over the whole field. / The whole field was sown.,Active vs passive ambiguity,ሜዳ ሙሉ ዘሩ።
+3654,Translation,ሠርቶ ጠጥቶ ዋሎ ሄደ።,"He worked, drank, and went away.",Sequential; Past,ሰርቶ ጠጥቶ ዋሎ ሄደ።
+1622,Ambiguity / Coreference,ፀጋዬ ጻፈ፤ ማርያምም ጻፈቸ።,ፀጋዬ wrote; Mary also wrote.,Coreference: parallel topic shift; Names varied: ፀጋዬ/ቤቴል/ሶፊያ,ጸጋዬ ጻፈ፤ ማርያምም ጻፈቸ።
+3887,Translation,ሰይፈ ዲሬ ዳዋ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in Dire Dawa.,Temporal; Emotional,ሰይፈ ዲሬ ዳዋ ካሰማ በኋላ ደስ አለ።
+4850,Morphology,ተሲፅፉ,Reciprocal/Passive prefix + While they write + 3rd plural / nominalization,Derived: Reciprocal/Passive prefix; Base: Continuous plural; Added: 3rd plural / nominalization,ተሲፅፉ
+4312,Translation,ሰሎሞን ነቀምት ካሸጠ በኋላ ደስ አለ።,ሰሎሞን was happy after selling in Nekemte.,Temporal; Emotional,ሰሎሞን ነቀምት ካሸጠ በኋላ ደስ አለ።
+2885,Translation,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።,ናሁሴናይ finished seeing the report.,Completive aspect,ናሁሴናይ ሪፖርቱንን አዩ ጨረሰ።
+3311,Translation,ዮሐንስ ሻንጣውንን ገዛ ጨረሰ።,ዮሐንስ finished buying the bag.,Completive aspect,ዮሀንስ ሻንጣውንን ገዛ ጨረሰ።
+1352,Conversation,ቁጥሩን ይስጡን።,Please give us the number.,Request for info,ቁጥሩን ይስጡን።
+1252,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+435,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+4355,Translation,ሞሃምድ ስልኩንን ቀረ ጨረሰ።,ሞሃምድ finished remaining the phone.,Completive aspect,ሞሀምድ ስልኩንን ቀረ ጨረሰ።
+4294,Ambiguity / Coreference,ሰዎቹ አዲሱ ዘፈን ወደዱ።,The people liked the new song. / New people liked the song.,NP scope: adjective attachment; Names varied: ሰሎሞን/ጌታሁን/ሙሉ,ሰዎቹ አዲሱ ዘፈን ወደዱ።
+3023,Ambiguity / Coreference,ወወደቀ እሷ።,She fell. / It fell on her.,Subject vs object role ambiguity; Names varied: ሊድያ/ቢኒያም/ፍቅርተ,ወወደቀ እሷ።
+1066,Ambiguity / Coreference,ዮሐንስ ሐቅ ነው ያለው።,What ዮሐንስ said is true / ዮሐንስ said it is real.,Quotative vs predicative ambiguity; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,ዮሀንስ ሀቅ ነው ያለው።
+4005,Translation,ዘሩ ተዘርቶ ዝናቡ ወረደ።,The seed was sown and the rain fell.,Sequential; Passive,ዘሩ ተዘርቶ ዝናቡ ወረደ።
+2427,Translation,ተስፋዬ ሻንጣውን ጠበቀ።,ተስፋዬ waited the bag.,Simple Past; Personal name,ተስፋዬ ሻንጣውን ጠበቀ።
+2812,Translation,ካሳሁን ቤቱን ሰጠ።,ካሳሁን gave the house.,Simple Past; Personal name,ካሳሁን ቤቱን ሰጠ።
+462,Conversation,መሬቱ ካርታ ያምጡ።,Bring the land title.,Specification,መሬቱ ካርታ ያምጡ።
+2044,Morphology,ሊአዲሷ ቤት,Near-future prefix + The new house (feminine reference) + 3rd plural object,Derived: Near-future prefix; Base: Adj+definite feminine NP; Added: 3rd plural object,ሊአዲሷ ቤት
+1161,Morphology,እንይፅፋሉ,Cohortative prefix + They write + Accusative / cohortative,Derived: Cohortative prefix; Base: Habitual present plural; Added: Accusative / cohortative,እንይፅፋሉ
+3243,Conversation,አዎ ለዩኒቨርሲቲ ነው።,Yes it is for university.,Context,አዎ ለዩኒቨርሲቲ ነው።
+3970,Ambiguity / Coreference,ሀሰን ቡናውን ሰጠው።,Hassan gave him the coffee. / Hassan's coffee gave him.,Subject-object ambiguity; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,ሀሰን ቡናውን ሰጠው።
+1727,Conversation,አዎ ቀናት ሆኗ።,Yes it has been days.,Confirmation,አዎ ቀናት ሆኗ።
+1279,Ambiguity / Coreference,ብሩህ ካለ ጥሩ ነው።,It is good if ብሩህ is there. / It is good that ብሩህ said.,Conditional vs quotative; Names varied: ዮሐንስ/ብሩህ/ሂሩት,ብሩህ ካለ ጥሩ ነው።
+4839,Morphology,ሊሳይሮጡ,Near-future prefix + Without running + Feminine object,Derived: Near-future prefix; Base: Negative gerundive plural; Added: Feminine object,ሊሳይሮጡ
+2340,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+1028,Ambiguity / Coreference,ለምን ሄዱ?,Why did they go? / Why did you (plural) go?,Person ambiguity: 3rd vs 2nd plural; Names varied: ሀሰን/ርዕሱ/ፀሀዪ,ለምን ሄዱ?
+721,Translation,ሞሃምድ ስልኩንን ቀረ ጨረሰ።,ሞሃምድ finished remaining the phone.,Completive aspect,ሞሀምድ ስልኩንን ቀረ ጨረሰ።
+1034,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+1288,Translation,ሞሃምድ ስልኩንን ቀረ ጨረሰ።,ሞሃምድ finished remaining the phone.,Completive aspect,ሞሀምድ ስልኩንን ቀረ ጨረሰ።
+4907,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+845,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+1187,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+1463,Translation,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።,ዘሪሁን will gathered the letter tomorrow.,Future; Personal name,ዘሪሁን ነገ ደብዳቤውን ይሰበሰበዋል።
+2091,Translation,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።,ቢኒያም gave the book to ፍቅሩ.,Dative transfer; Past,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።
+2859,Morphology,ሲሊሄድ ሲፈልግ ዋለ,Temporal/Continuous prefix + He spent the day wanting to go + 3rd plural / nominalization,Derived: Temporal/Continuous prefix; Base: Desire continuative; Added: 3rd plural / nominalization,ሲሊሄድ ሲፈልግ ዋለ
+4444,Morphology,ተእንገናኛለን,Reciprocal/Passive prefix + We will meet + 3rd plural / nominalization,Derived: Reciprocal/Passive prefix; Base: Prefix: እን-; Suffix: -አለን; Added: 3rd plural / nominalization,ተእንገናኛለን
+154,Translation,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።,ቢኒያም gave the book to ፍቅሩ.,Dative transfer; Past,ቢኒያም መፅሀፉንን ለፍቅሩ ሰጠ።
+989,Translation,አለሙ ሀዋሳ ሄዶ ሄደ።,አለሙ went to Hawassa and went.,Sequential; Location,አለሙ ሀዋሳ ሄዶ ሄደ።
+4730,Translation,ካሳሁን ቤቱን ሰጠ።,ካሳሁን gave the house.,Simple Past; Personal name,ካሳሁን ቤቱን ሰጠ።
+2621,Translation,ሰይፈ ሀዋሳ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in Hawassa.,Temporal; Emotional,ሰይፈ ሀዋሳ ካሰማ በኋላ ደስ አለ።
+1318,Morphology,ተሮጠን,Reciprocal/Passive prefix + We ran + Feminine object,Derived: Reciprocal/Passive prefix; Base: Past first person plural; Added: Feminine object,ተሮጠን
+3321,Translation,ዘሪሁን ጎጃም ካሰበሰበ በኋላ ደስ አለ።,ዘሪሁን was happy after gathering in Gojam.,Temporal; Emotional,ዘሪሁን ጎጃም ካሰበሰበ በኋላ ደስ አለ።
+3666,Translation,ፀጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።,ፀጋዬ wanted to hurried the file.,Desiderative,ጸጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።
+1716,Conversation,ሃያ ብር ነው።,It is twenty Birr.,Transport; Fare response,ሀያ ብር ነው።
+2649,Conversation,ስምንት ብር ትወሰዳለህ?,Will you take eight Birr?,Commerce; Counter-offer,ስምንት ብር ትወሰዳለህ?
+4659,Ambiguity / Coreference,ዳዊት ፊልሙን ያዩ ናቸው።,ዳዊት has seen the film. / ዳዊት is the one who sees films.,Perfect vs habitual relative; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,ዳዊት ፊልሙን ያዩ ናቸው።
+4197,Ambiguity / Coreference,ሰሎሞን ካሳሁንን ካደረ ምን ይሆናል?,What happens if ሰሎሞን betrays ካሳሁን?,Name-verb ambiguity: ካደረ; Names varied: ካሳሁን/ሰሎሞን/አስቴር,ሰሎሞን ካሳሁንን ካደረ ምን ይሆናል?
+4058,Morphology,ተሲለያዩ,Reciprocal/Passive prefix + When/While they separate + 3rd plural / nominalization,Derived: Reciprocal/Passive prefix; Base: Temporal reciprocal; Added: 3rd plural / nominalization,ተሲለያዩ
+4278,Translation,ናሁሴናይ ጂማ ሄዶ አዩ።,ናሁሴናይ went to Jimma and saw.,Sequential; Location,ናሁሴናይ ጂማ ሄዶ አዩ።
+954,Translation,ቤቴል ስልኩን ጻፈ።,ቤቴል wrote the phone.,Simple Past; Personal name,ቤቴል ስልኩን ጻፈ።
+255,Conversation,ካርታ የቤቱ ወይስ መሬቱ?,Is it the house or land title?,Clarification,ካርታ የቤቱ ወይስ መሬቱ?
+82,Translation,ፈረሱ ሩቅ ሜዳ ሲሄድ ሰሙ።,They heard the horse go to the far field.,Sensory perception; Complex,ፈረሱ ሩቅ ሜዳ ሲሄድ ሰሙ።
+1168,Translation,አለሙ መፅሀፉንን ሄደ ጨረሰ።,አለሙ finished going the book.,Completive aspect,አለሙ መፅሀፉንን ሄደ ጨረሰ።
+605,Morphology,ለልጁ ብቻ,Only for the child,Restrictive particle,ለልጁ ብቻ
+4924,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+4808,Translation,ሞሃምድ ስልኩንን ቀረ ጨረሰ።,ሞሃምድ finished remaining the phone.,Completive aspect,ሞሀምድ ስልኩንን ቀረ ጨረሰ።
+312,Translation,ካሳሁን ቤቱን ሰጠ።,ካሳሁን gave the house.,Simple Past; Personal name,ካሳሁን ቤቱን ሰጠ።
+3623,Translation,ሞሃምድ ስልኩንን ቀረ ጨረሰ።,ሞሃምድ finished remaining the phone.,Completive aspect,ሞሀምድ ስልኩንን ቀረ ጨረሰ።
+3056,Translation,ትምህርት ቤቱ በሰዓቱ ተከፈተ።,The school was opened on time.,Passive; Prefix: ተ-,ትምህርት ቤቱ በሰዓቱ ተከፈተ።
+2242,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+1969,Conversation,አመሰ፤ ቆሟል።,Thank you; stopped.,Gratitude + resolution,አመሰ፤ ቆሟል።
+1069,Translation,ካሳሁን ቤቱን ሰጠ።,ካሳሁን gave the house.,Simple Past; Personal name,ካሳሁን ቤቱን ሰጠ።
+1771,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+99,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+9,Translation,ሕዝቡ ሲሰጥ ደስ ሆነ።,The people were happy when they were given.,Temporal; Positive,ሕዝቡ ሲሰጥ ደስ ሆነ።
+3653,Ambiguity / Coreference,አዲሱ ሰው ቤቱ ደረሰ።,The new person arrived home. / The person arrived at the new house.,NP attachment ambiguity; Names varied: ተስፋዬ/ዳዊት/ቤዛ,አዲሱ ሰው ቤቱ ደረሰ።
+2148,Conversation,ቁጥሩን ይስጡን።,Please give us the number.,Request for info,ቁጥሩን ይስጡን።
+1216,Morphology,ሲከዚህ ወደ ዚያ,Temporal/Continuous prefix + From here to there + Feminine object,Derived: Temporal/Continuous prefix; Base: Demonstrative prepositional; Added: Feminine object,ሲከዚህ ወደ ዚያ
+2188,Conversation,ባንኩ ከዚህ ቀጥሎ ባለው መንገድ ላይ ነው።,The bank is on the next street.,Providing directions,ባንኩ ከዚህ ቀጥሎ ባለው መንገድ ላይ ነው።
+3716,Morphology,ፃፍ,Write! (masc sg),Imperative masculine,ፃፍ
+412,Conversation,ቅበላ ደብዳቤ ነው።,It is an acceptance letter.,Specification,ቅበላ ደብዳቤ ነው።
+3211,Morphology,አስፅሁፎቻችሁ,Causative prefix + Your (plural) writings + 3rd plural object,Derived: Causative prefix; Base: Possessive 2nd person plural; Added: 3rd plural object,አስፅሁፎቻችሁ
+3366,Morphology,ሊያስፃፍ,About to cause to write,Causative near-future,ሊያስፃፍ
+2505,Translation,ናሁሴናይ ጎጃም ሄዶ አዩ።,ናሁሴናይ went to Gojam and saw.,Sequential; Location,ናሁሴናይ ጎጃም ሄዶ አዩ።
+1551,Translation,ሞሃምድ ደሴ ሄዶ ቀረ።,ሞሃምድ went to Dessie and remained.,Sequential; Location,ሞሀምድ ደሴ ሄዶ ቀረ።
+2577,Translation,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።,ዳዊት was happy after taking in Bahir Dar.,Temporal; Emotional,ዳዊት ባህር ዳር ካወሰደ በኋላ ደስ አለ።
+2026,Conversation,ስሜ ካሳሁን ይባላል።,My name is Kasahun.,Response; Identity,ስሜ ካሳሁን ይባላል።
+4064,Translation,ስብሰባው ከሰዓት በኋላ ይጀምራል።,The meeting will start after noon.,Future; Time expression,ስብሰባው ከሰዓት በኋላ ይጀምራል።
+3248,Morphology,ተሳይሮጥ ሄደ,Reciprocal/Passive prefix + He left without running + 3rd plural object,Derived: Reciprocal/Passive prefix; Base: Negative gerundive; Added: 3rd plural object,ተሳይሮጥ ሄደ
+301,Ambiguity / Coreference,ሀሰን ቡናውን ሰጠው።,Hassan gave him the coffee. / Hassan's coffee gave him.,Subject-object ambiguity; Names varied: ሊድያ/ቢኒያም/ፍቅርተ,ሀሰን ቡናውን ሰጠው።
+2608,Conversation,መሬቱ ካርታ ያምጡ።,Bring the land title.,Specification,መሬቱ ካርታ ያምጡ።
+4046,Translation,ካሳሁን ቤቱንን ለሀሰን ሰጠ።,ካሳሁን gave the house to ሀሰን.,Dative transfer; Past,ካሳሁን ቤቱንን ለሀሰን ሰጠ።
+3528,Conversation,ኢንዴርኔት ቀርቷል?,Has the internet gone out?,Tech inquiry,ኢንዴርኔት ቀርቷል?
+1817,Conversation,አዎ ቀናት ሆኗ።,Yes it has been days.,Confirmation,አዎ ቀናት ሆኗ።
+3113,Morphology,ሳይፈፅሞ ሄደ,Negative gerundive + He went after completing + Accusative / cohortative,Derived: Negative gerundive; Base: Sequential past; Added: Accusative / cohortative,ሳይፈፅሞ ሄደ
+1660,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+1893,Ambiguity / Coreference,ለምን ሄዱ?,Why did they go? / Why did you (plural) go?,Person ambiguity: 3rd vs 2nd plural; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,ለምን ሄዱ?
+731,Ambiguity / Coreference,አዲሱ ሰው ቤቱ ደረሰ።,The new person arrived home. / The person arrived at the new house.,NP attachment ambiguity; Names varied: ናሁሴናይ/ሀሰን/አስቴርሃይ,አዲሱ ሰው ቤቱ ደረሰ።
+3680,Translation,ተስፋዬ ሻንጣውን ጠበቀ።,ተስፋዬ waited the bag.,Simple Past; Personal name,ተስፋዬ ሻንጣውን ጠበቀ።
+4518,Translation,ጌታሁን ቤቱንን አነበበ ጨረሰ።,ጌታሁን finished reading the house.,Completive aspect,ጌታሁን ቤቱንን አነበበ ጨረሰ።
+4458,Ambiguity / Coreference,ዛሬ ፈጠነ።,Today it was fast. / He hurried today. / He was created today.,Triple lexical ambiguity; Names varied: ሰይፈ/አለሙ/ሰNA,ዛሬ ፈጠነ።
+2721,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+3074,Morphology,እንሳይፅፉ,Cohortative prefix + Without writing + Feminine object,Derived: Cohortative prefix; Base: Negative gerundive plural; Added: Feminine object,እንሳይፅፉ
+1120,Translation,ቤቱ ጉልላቱ ሲደፈ ሰዓቱ ቀደም አለ።,The dome of the house collapsed before its time.,Temporal; Structural,ቤቱ ጉልላቱ ሲደፈ ሰዓቱ ቀደም አለ።
+3057,Morphology,እየፈፀመ ነው,He is completing,Imperfective progressive,እየፈጸመ ነው
+2235,Translation,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።,ፍቅሩ wanted to arrived the bag.,Desiderative,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።
+2733,Translation,ዮሐንስ ሻንጣውንን ገዛ ጨረሰ።,ዮሐንስ finished buying the bag.,Completive aspect,ዮሀንስ ሻንጣውንን ገዛ ጨረሰ።
+3917,Conversation,ውሃ ብዙ ይጠጡ።,Drink plenty of water.,Healthcare; Advice,ውሀ ብዙ ይጠጡ።
+2488,Translation,ካሌ ሐሜት ቢሆን ውሸት ሊሆን ይችላል።,"If there is gossip, it might be a lie.",Conditional Modal,ካሌ ሀሜት ቢሆን ውሸት ሊሆን ይችላል።
+3650,Ambiguity / Coreference,ሰሙ ውሻ ጮኸ።,The dog barked; they heard. / They heard the barking dog.,Relative clause vs simple clause; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,ሰሙ ውሻ ጮኸ።
+883,Translation,ዳዊት ጅጅጋ ካወሰደ በኋላ ደስ አለ።,ዳዊት was happy after taking in Jigjiga.,Temporal; Emotional,ዳዊት ጅጅጋ ካወሰደ በኋላ ደስ አለ።
+1144,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+2276,Ambiguity / Coreference,ቤቱ ቀዝቅዞ ቀረ።,The house remained cold. / He remained cold at home.,Subject referent ambiguity; Names varied: ፀጋዬ/ቤቴል/ሶፊያ,ቤቱ ቀዝቅዞ ቀረ።
+4407,Morphology,ተፅሁፎቻችን,Reciprocal/Passive prefix + Our writings + 3rd plural / nominalization,Derived: Reciprocal/Passive prefix; Base: Plural nominalization; 1st person plural possessive; Added: 3rd plural / nominalization,ተፅሁፎቻችን
+3709,Morphology,እንአስፃፋው,Cohortative prefix + He caused him to write + Accusative / cohortative,Derived: Cohortative prefix; Base: Causative with masculine object; Added: Accusative / cohortative,እንአስፃፋው
+249,Translation,ዮሐንስ ሻንጣውንን ገዛ ጨረሰ።,ዮሐንስ finished buying the bag.,Completive aspect,ዮሀንስ ሻንጣውንን ገዛ ጨረሰ።
+2021,Translation,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።,ፍቅሩ wanted to arrived the bag.,Desiderative,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።
+3687,Translation,ናሁሴናይ ሐረር ሄዶ አዩ።,ናሁሴናይ went to Harar and saw.,Sequential; Location,ናሁሴናይ ሀረር ሄዶ አዩ።
+3033,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+4323,Ambiguity / Coreference,ዘሪሁን ቤቱ ደርሶ አረፈ።,ዘሪሁን arrived home and rested. / ዘሪሁን having arrived at home rested.,Sequential vs gerundive; Names varied: ዘሪሁን/ናሁሴናይ/ዘሪቱ,ዘሪሁን ቤቱ ደርሶ አረፈ።
+604,Translation,እባክህ ቡና አምጣልኝ።,Please bring me coffee.,Request; Benefactive: -ልኝ,እባክህ ቡና አምጣልኝ።
+4601,Conversation,ሕፃናቱ ለምን አለቀሰ?,Why did the baby cry?,Social concern,ሕፃናቱ ለምን አለቀሰ?
+657,Translation,ሀሰን ደብዳቤውንን ሰራ ሊሰራ ፈለገ።,ሀሰን wanted to worked the letter.,Desiderative,ሀሰን ደብዳቤውንን ሰራ ሊሰራ ፈለገ።
+426,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+4159,Translation,ፀሀይ በምስራቅ በኩል ትወጣለች።,The sun rises in the east.,General truth; Feminine marker,ጸሀይ በምስራቅ በኩል ትወጣለች።
+4959,Ambiguity / Coreference,ለምን ቀሩ?,Why did they stay? / Why did they remain?,Lexical: ቀሩ can mean 'stayed' or 'remained behind'; Names varied: ሰይፈ/አለሙ/ሰNA,ለምን ቀሩ?
+846,Translation,ሰይፈ ሰሜን ሸዋ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in North Shewa.,Temporal; Emotional,ሰይፈ ሰሜን ሸዋ ካሰማ በኋላ ደስ አለ።
+165,Morphology,ያለቅሱ,Let them weep,Jussive; 3rd person plural,ያለቅሱ
+3818,Translation,ዘሪሁን ሐረር ካሰበሰበ በኋላ ደስ አለ።,ዘሪሁን was happy after gathering in Harar.,Temporal; Emotional,ዘሪሁን ሀረር ካሰበሰበ በኋላ ደስ አለ።
+2715,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+2359,Translation,ቢሮ ሰዓቱ ቀደም ሲሉ ሄዱ።,They went to the office earlier than usual.,Comparative temporal,ቢሮ ሰዓቱ ቀደም ሲሉ ሄዱ።
+1239,Ambiguity / Coreference,አዲሱ ሰው ቤቱ ደረሰ።,The new person arrived home. / The person arrived at the new house.,NP attachment ambiguity; Names varied: ርዕሱ/ዘሪሁን/ሳሚቱ,አዲሱ ሰው ቤቱ ደረሰ።
+4546,Translation,ሰይፈ ሰሜን ሸዋ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in North Shewa.,Temporal; Emotional,ሰይፈ ሰሜን ሸዋ ካሰማ በኋላ ደስ አለ።
+2923,Morphology,ሊይታወቃሉ,Near-future prefix + They are known + Present perfect 3sg,Derived: Near-future prefix; Base: Passive habitual plural; Added: Present perfect 3sg,ሊይታወቃሉ
+2392,Morphology,ሊተለያዩ,Near-future prefix + They separated + Feminine object,Derived: Near-future prefix; Base: Reciprocal past; Added: Feminine object,ሊተለያዩ
+71,Conversation,ሒሳቤ ስህተት ሆኗል።,My account has an error.,Issue statement,ሒሳቤ ስህተት ሆኗል።
+2969,Morphology,ሊወጥተዋል,Near-future prefix + They have gone out + 3rd plural object,Derived: Near-future prefix; Base: Present Perfect plural; Added: 3rd plural object,ሊወጥተዋል
+4059,Ambiguity / Coreference,ፀሀዩ ጠባይ አለው።,The tailor/sun has character.,Lexical: ፀሀይ = sun or tailor; Names varied: ርዕሱ/ዘሪሁን/ሳሚቱ,ጸሀዩ ጠባይ አለው።
+130,Ambiguity / Coreference,ውሻው ድመቷን አሳደዳት፤ እሷም ዛፍ ላይ ወጣች።,The dog chased the cat; and she climbed a tree.,Coreference: she=cat (gender); Names varied: ፍቅሩ/ካሳሁን/ጥሩ ሰናይ,ውሻው ድመቷን አሳደዳት፤ እሷም ዛፍ ላይ ወጣች።
+4106,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+3563,Conversation,ወተት ስጠው።,Give milk.,Advice,ወተት ስጠው።
+4856,Conversation,ቅበላ ደብዳቤ ነው።,It is an acceptance letter.,Specification,ቅበላ ደብዳቤ ነው።
+4980,Translation,ካሳሁን ቤቱን ሰጠ።,ካሳሁን gave the house.,Simple Past; Personal name,ካሳሁን ቤቱን ሰጠ።
+1385,Conversation,ስልካቸውን ደዊሉ።,Call their phone.,Instruction,ስልካቸውን ደዊሉ።
+3991,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+1728,Translation,ብሩህ መኪናውን ሳያአሳየ ቀረ።,ብሩህ remained without showing the car.,Negated gerundive,ብሩህ መኪናውን ሳያአሳየ ቀረ።
+3660,Conversation,ቁጥሩ 0912345678 ነው።,The number is 0912345678.,Info provision,ቁጥሩ 0912345678 ነው።
+1032,Translation,ቤቴል ስልኩን ጻፈ።,ቤቴል wrote the phone.,Simple Past; Personal name,ቤቴል ስልኩን ጻፈ።
+1595,Translation,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።,ፍቅሩ remained without arriving the bag.,Negated gerundive,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።
+3112,Morphology,ሊሊሮጡ,Near-future prefix + About to run + 3rd plural / nominalization,Derived: Near-future prefix; Base: Near-future infinitive plural; Added: 3rd plural / nominalization,ሊሊሮጡ
+4534,Morphology,እንሳይተኙ,Cohortative prefix + Without sleeping + 3rd plural / nominalization,Derived: Cohortative prefix; Base: Negative gerundive; Plural; Added: 3rd plural / nominalization,እንሳይተኙ
+1779,Ambiguity / Coreference,ቤቱ ሲፈርስ ሁሉ ጠፉ።,"When the house collapsed, all disappeared. / All disappeared while demolishing the house.",Causal vs instrumental ambiguity; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ቤቱ ሲፈርስ ሁሉ ጠፉ።
+3418,Translation,ዕቅዱ ትክክል ሆኖ ከወጣ ጥሩ ነው።,It is good if the plan turns out correct.,Conditional,ዕቅዱ ትክክል ሆኖ ከወጣ ጥሩ ነው።
+4342,Ambiguity / Coreference,ሙሉና ሙሉ እራት በሉ፤ እሷ ጠገበች።,ሙሉ and ሙሉ ate; she was full.,Coreference: she (fem)=Aster; Names varied: ሰሎሞን/ጌታሁን/ሙሉ,ሙሉና ሙሉ እራት በሉ፤ እሷ ጠገበች።
+2111,Ambiguity / Coreference,ዓሣ ያዙ ሰዎቹ ደሰቱ።,The people who caught fish were happy. / The people caught fish and were happy.,Relative clause vs sequential; Names varied: ዳዊት/ዮሐንስ/ሕፃናቷ,ዓሣ ያዙ ሰዎቹ ደሰቱ።
+4523,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+3104,Translation,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።,ሰሎሞን will sold the bag tomorrow.,Future; Personal name,ሰሎሞን ነገ ቦርሳዋን ይሸጠዋል።
+980,Translation,ሙሉ ነገ ፋይሉን ይሮጠዋል።,ሙሉ will ran the file tomorrow.,Future; Personal name,ሙሉ ነገ ፋይሉን ይሮጠዋል።
+3938,Conversation,ካርታ አምጡ።,Bring the map/title deed.,Document request,ካርታ አምጡ።
+206,Conversation,መሬቱ ካርታ ያምጡ።,Bring the land title.,Specification,መሬቱ ካርታ ያምጡ።
+2541,Morphology,እንፅፈው,Cohortative prefix + Having written + 3rd plural / nominalization,Derived: Cohortative prefix; Base: Gerundive plural; Added: 3rd plural / nominalization,እንፅፈው
+977,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+3445,Translation,ሰይፈ ሀዋሳ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in Hawassa.,Temporal; Emotional,ሰይፈ ሀዋሳ ካሰማ በኋላ ደስ አለ።
+1475,Ambiguity / Coreference,ቤቱ ቀዝቅዞ ቀረ።,The house remained cold. / He remained cold at home.,Subject referent ambiguity; Names varied: ሀሰን/ርዕሱ/ፀሀዪ,ቤቱ ቀዝቅዞ ቀረ።
+450,Translation,ዮሐንስ ሻንጣውንን ገዛ ጨረሰ።,ዮሐንስ finished buying the bag.,Completive aspect,ዮሀንስ ሻንጣውንን ገዛ ጨረሰ።
+3681,Conversation,ቅበላ ደብዳቤ ነው።,It is an acceptance letter.,Specification,ቅበላ ደብዳቤ ነው።
+752,Ambiguity / Coreference,ሁሉም ሲናገሩ ቀሩ።,They all remained speaking. / All of them stayed when they spoke.,Purpose vs consequential ambiguity,ሁሉም ሲናገሩ ቀሩ።
+4487,Translation,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።,ፍቅሩ remained without arriving the bag.,Negated gerundive,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።
+33,Conversation,ደወልኩ ምላሽ የለም።,I called; no answer.,Follow-up,ደወልኩ ምላሽ የለም።
+2573,Ambiguity / Coreference,አበባ ደርሳ ሄደች።,Abeba arrived and left. / Abeba the flower went away.,Name vs noun; sequential; Names varied: ጌታሁን/ፍቅሩ/ወርቅነሽ,አበባ ደርሳ ሄደች።
+4531,Morphology,ተወደ ቤት,Reciprocal/Passive prefix + To the house + Feminine object,Derived: Reciprocal/Passive prefix; Base: Directional prefix: ወደ-; Added: Feminine object,ተወደ ቤት
+4824,Morphology,ተጫወቱ,They played,Verb conjugation ambiguity (Past vs Imperative),ተጫወቱ
+3379,Conversation,አዎ አዲስ ቤት ለማሰቀ።,Yes to build a new house.,Purpose,አዎ አዲስ ቤት ለማሰቀ።
+916,Translation,ብዙ ጊዜ ዝምታ ሁሉን ይናገራል።,"Often, silence speaks everything.",Proverb-like; Metaphorical,ብዙ ጊዜ ዝምታ ሁሉን ይናገራል።
+184,Morphology,ሲስለማይመጡ,Temporal/Continuous prefix + Because they are not coming + 3rd plural / nominalization,Derived: Temporal/Continuous prefix; Base: Conj: ስለ-; Negative: -ማይ-; Verb: መጣ; Added: 3rd plural / nominalization,ሲስለማይመጡ
+819,Conversation,አዎ ለዩኒቨርሲቲ ነው።,Yes it is for university.,Context,አዎ ለዩኒቨርሲቲ ነው።
+1592,Morphology,ሳይተፅፎ,Negative gerundive + Having been written + Present perfect 3sg,Derived: Negative gerundive; Base: Passive gerundive; Added: Present perfect 3sg,ሳይተፅፎ
+4396,Translation,ካሳሁን ቤቱንን ለሀሰን ሰጠ።,ካሳሁን gave the house to ሀሰን.,Dative transfer; Past,ካሳሁን ቤቱንን ለሀሰን ሰጠ።
+118,Conversation,ሕፃናቱ ለምን አለቀሰ?,Why did the baby cry?,Social concern,ሕፃናቱ ለምን አለቀሰ?
+4377,Translation,ሞሃምድ ዓዋሳ ሄዶ ቀረ።,ሞሃምድ went to Awassa and remained.,Sequential; Location,ሞሀምድ ዓዋሳ ሄዶ ቀረ።
+3016,Morphology,ተሰጪ,Reciprocal/Passive prefix + Giver + Feminine object,Derived: Reciprocal/Passive prefix; Base: Agent nominalization; Added: Feminine object,ተሰጪ
+806,Translation,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።,ርዕሱ gave the report to ብሩህ.,Dative transfer; Past,ርዕሱ ሪፖርቱንን ለብሩህ ሰጠ።
+1928,Conversation,ቁጥሩን ይስጡን።,Please give us the number.,Request for info,ቁጥሩን ይስጡን።
+2133,Morphology,ተሲሮጡ,Reciprocal/Passive prefix + While they run + 3rd plural / nominalization,Derived: Reciprocal/Passive prefix; Base: Continuous plural; Added: 3rd plural / nominalization,ተሲሮጡ
+776,Morphology,ሳይከቤት,Negative gerundive + From the house + Feminine object,Derived: Negative gerundive; Base: Ablative prefix: ከ-; Added: Feminine object,ሳይከቤት
+635,Morphology,አስአስፃፋው,Causative prefix + He caused him to write + 3rd plural / nominalization,Derived: Causative prefix; Base: Causative with masculine object; Added: 3rd plural / nominalization,አስአስፃፋው
+3287,Translation,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።,ፍቅሩ remained without arriving the bag.,Negated gerundive,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።
+4865,Conversation,ስልካቸውን ደዊሉ።,Call their phone.,Instruction,ስልካቸውን ደዊሉ።
+853,Translation,ርዕሱ ሪፖርቱን ዘፈነ።,ርዕሱ sang the report.,Simple Past; Personal name,ርዕሱ ሪፖርቱን ዘፈነ።
+3954,Translation,ሰይፈ ሀዋሳ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in Hawassa.,Temporal; Emotional,ሰይፈ ሀዋሳ ካሰማ በኋላ ደስ አለ።
+3945,Translation,ሊድያ ካርዱን ሳያአቀረበ ቀረ።,ሊድያ remained without presenting the card.,Negated gerundive,ሊድያ ካርዱን ሳያአቀረበ ቀረ።
+1450,Translation,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።,ፍቅሩ remained without arriving the bag.,Negated gerundive,ፍቅሩ ቦርሳዋን ሳያደረሰ ቀረ።
+851,Translation,ተስፋዬ ሻንጣውንን ለፀጋዬ ሰጠ።,ተስፋዬ gave the bag to ፀጋዬ.,Dative transfer; Past,ተስፋዬ ሻንጣውንን ለጸጋዬ ሰጠ።
+622,Translation,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።,ፍቅሩ wanted to arrived the bag.,Desiderative,ፍቅሩ ቦርሳዋንን ደረሰ ሊደረሰ ፈለገ።
+3108,Translation,ሰይፈ ሰሜን ሸዋ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in North Shewa.,Temporal; Emotional,ሰይፈ ሰሜን ሸዋ ካሰማ በኋላ ደስ አለ።
+2115,Translation,ፀጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።,ፀጋዬ wanted to hurried the file.,Desiderative,ጸጋዬ ፋይሉንን ፈጠነ ሊፈጠነ ፈለገ።
+3221,Conversation,ስልካቸውን ደዊሉ።,Call their phone.,Instruction,ስልካቸውን ደዊሉ።
+135,Translation,ሰይፈ ዲሬ ዳዋ ካሰማ በኋላ ደስ አለ።,ሰይፈ was happy after hearing in Dire Dawa.,Temporal; Emotional,ሰይፈ ዲሬ ዳዋ ካሰማ በኋላ ደስ አለ።
+1348,Translation,ፀጋዬ ፋይሉን ሳያፈጠነ ቀረ።,ፀጋዬ remained without hurrying the file.,Negated gerundive,ጸጋዬ ፋይሉን ሳያፈጠነ ቀረ።
+2907,Morphology,አስተናፍቆ,Causative prefix + Having longed + Accusative / cohortative,Derived: Causative prefix; Base: Gerundive; Emotive verb; Added: Accusative / cohortative,አስተናፍቆ
+485,Ambiguity / Coreference,ልጅቷ እናቷን ትወዳለች።,The girl loves her mother.,Coreference: her=girl's own mother; Names varied: ሞሃምድ/ፀጋዬ/ሰሙነሽ,ልጅቷ እናቷን ትወዳለች።

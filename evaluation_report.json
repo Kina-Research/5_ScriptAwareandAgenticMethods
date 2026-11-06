@@ -1,0 +1,22 @@
+{
+    "Task_Comparisons": {
+        "Sentence-level Translation": {
+            "Metric": "BLEU",
+            "Baseline": 0.12,
+            "Script-Aware": 0.16,
+            "Agentic": 0.21
+        },
+        "Morphological Analysis": {
+            "Metric": "Accuracy",
+            "Baseline": 0.58,
+            "Script-Aware": 0.69,
+            "Agentic": 0.74
+        },
+        "Ambiguity Resolution": {
+            "Metric": "F1-Score",
+            "Baseline": 0.55,
+            "Script-Aware": 0.64,
+            "Agentic": 0.72
+        }
+    }
+}

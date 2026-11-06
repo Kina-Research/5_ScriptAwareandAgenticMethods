@@ -1,0 +1,30 @@
+# Large model checkpoints and weights (>17 GB)
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
